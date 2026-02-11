@@ -1,6 +1,5 @@
 ---
 name: yandex-direct
-version: 1.0.0
 description: >-
   Complete Yandex Direct documentation reference (509 articles, Russian).
   Use when the user asks about Yandex Direct advertising: campaign types,
@@ -8,9 +7,10 @@ description: >-
   feeds, Telegram Ads, CPM display, payments, analytics, or any aspect
   of Yandex contextual and display advertising. Provides navigation map,
   search instructions, and key concepts for answering questions accurately.
-user-invocable: false
+license: Content belongs to Yandex. Repository for reference purposes.
 allowed-tools: Read Grep Glob
 metadata:
+  version: "1.0.0"
   author: pomogay-marketing
   category: advertising
   language: ru

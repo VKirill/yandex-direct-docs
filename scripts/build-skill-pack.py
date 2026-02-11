@@ -90,21 +90,24 @@ def build_zip():
     zip_path = DIST / "yandex-direct-skill.zip"
 
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
-        # SKILL.md at root
-        skill_src = ROOT / ".claude" / "skills" / "yandex-direct" / "SKILL.md"
-        zf.write(skill_src, "SKILL.md")
+        # Official format: skill-name/ as root folder inside ZIP
+        prefix = "yandex-direct"
 
-        # References
+        # SKILL.md at skill root
+        skill_src = ROOT / ".claude" / "skills" / "yandex-direct" / "SKILL.md"
+        zf.write(skill_src, f"{prefix}/SKILL.md")
+
+        # Resources (official name per Anthropic spec)
         refs_dir = ROOT / ".claude" / "skills" / "yandex-direct" / "references"
         for ref in refs_dir.glob("*.md"):
-            zf.write(ref, f"references/{ref.name}")
+            zf.write(ref, f"{prefix}/resources/{ref.name}")
 
         # Key docs
         added = 0
         for rel_path in KEY_ARTICLES:
             full_path = DOCS / rel_path
             if full_path.exists():
-                zf.write(full_path, f"docs/{rel_path}")
+                zf.write(full_path, f"{prefix}/resources/docs/{rel_path}")
                 added += 1
             else:
                 print(f"  SKIP (not found): {rel_path}")

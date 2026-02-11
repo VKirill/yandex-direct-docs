@@ -1,6 +1,5 @@
 ---
 name: yandex-direct
-version: 1.0.0
 description: >-
   Complete Yandex Direct documentation in Russian (509 articles). Use when
   the user asks about Yandex Direct advertising campaigns, ad targeting,
@@ -9,8 +8,10 @@ description: >-
   and display advertising platform. Covers all campaign types, bidding
   strategies, targeting options, moderation rules, payment methods, and
   performance analytics.
+license: Content belongs to Yandex. Repository for reference purposes.
 allowed-tools: Read Grep Glob
 metadata:
+  version: "1.0.0"
   author: pomogay-marketing
   category: advertising
   language: ru
