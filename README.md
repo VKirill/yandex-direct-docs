@@ -7,7 +7,9 @@
   <img alt="Yandex Direct Docs" src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82-docs-FFCC00?style=for-the-badge&logo=yandex&logoColor=black">
 </picture>
 
-[![Страниц](https://img.shields.io/badge/pages-509-blue?style=flat-square)]() [![Язык](https://img.shields.io/badge/lang-ru-green?style=flat-square)]() [![Обновлено](https://img.shields.io/badge/updated-2026--02--11-orange?style=flat-square)]() [![Agent Skill](https://img.shields.io/badge/agent_skill-SKILL.md-8A2BE2?style=flat-square)](SKILL.md)
+[![Страниц](https://img.shields.io/badge/pages-509-blue?style=flat-square)]() [![Язык](https://img.shields.io/badge/lang-ru-green?style=flat-square)]() [![Обновлено](https://img.shields.io/badge/updated-2026--02--11-orange?style=flat-square)]() [![Agent Skill](https://img.shields.io/badge/agent_skill-SKILL.md-8A2BE2?style=flat-square)](SKILL.md) [![Release](https://img.shields.io/github/v/release/VKirill/yandex-direct-docs?style=flat-square&color=brightgreen)](https://github.com/VKirill/yandex-direct-docs/releases/latest)
+
+[![Скачать ZIP](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_ZIP-Claude_Chat-FF6B35?style=for-the-badge)](https://github.com/VKirill/yandex-direct-docs/releases/download/v1.0.0/yandex-direct-skill.zip) [![Скачать MD](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_MD-Claude_Chat-FF6B35?style=for-the-badge)](https://github.com/VKirill/yandex-direct-docs/releases/download/v1.0.0/yandex-direct-skill.md)
 
 [![Telegram](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pomogay_marketing)
 
@@ -218,26 +220,49 @@ python3 scripts/fix_links.py # Исправить ссылки
 
 Этот репозиторий содержит готовый **[Agent Skill](https://agentskills.io)** — файл [`SKILL.md`](SKILL.md), который можно подключить к любому AI-агенту (Claude Code, Cursor, Windsurf, Kimi и др.).
 
-### Установка
+### Claude Chat (Web) — быстрый старт
 
-**Claude Code** — скопируйте `SKILL.md` в директорию скиллов:
+Скачайте готовый пакет и загрузите в Claude Projects:
+
+| Формат | Размер | Скачать | Для кого |
+|--------|--------|---------|----------|
+| **ZIP** | 220 KB | [yandex-direct-skill.zip](https://github.com/VKirill/yandex-direct-docs/releases/download/v1.0.0/yandex-direct-skill.zip) | Для загрузки нескольких файлов в Project |
+| **MD** | 338 KB | [yandex-direct-skill.md](https://github.com/VKirill/yandex-direct-docs/releases/download/v1.0.0/yandex-direct-skill.md) | Один файл — проще всего |
+
+**Инструкция:**
+1. Скачайте **MD-файл** (или ZIP и распакуйте)
+2. Откройте [claude.ai](https://claude.ai) → создайте новый **Project**
+3. В настройках Project нажмите **Add content** → загрузите файл(ы)
+4. Задавайте вопросы о Яндекс Директе!
+
+> ZIP содержит: SKILL.md (навигация) + 4 reference-гайда + 57 ключевых статей из всех разделов.
+> MD-файл содержит всё то же самое в одном файле.
+
+### Claude Code — установка скилла
+
 ```bash
 # Глобально (для всех проектов)
+mkdir -p ~/.claude/skills/yandex-direct
 cp SKILL.md ~/.claude/skills/yandex-direct/SKILL.md
 
 # Или для конкретного проекта
+mkdir -p .claude/skills/yandex-direct
 cp SKILL.md .claude/skills/yandex-direct/SKILL.md
 ```
 
-**Cursor / Windsurf** — добавьте содержимое `SKILL.md` в файл правил проекта (`.cursorrules`, `.windsurfrules`).
+### Cursor / Windsurf
 
-**Context7 MCP** — используйте library ID для запросов к документации через MCP.
+Добавьте содержимое `SKILL.md` в файл правил проекта (`.cursorrules`, `.windsurfrules`).
+
+### Context7 MCP
+
+Используйте library ID для запросов к документации через MCP-сервер context7.
 
 ### Что умеет скилл
 
 - Навигация по 509 статьям с таблицей всех разделов
-- Быстрый поиск по ключевым словам
-- Ответы на вопросы о типах кампаний, стратегиях, таргетингах, модерации
+- Quick-reference по стратегиям, таргетингам, кампаниям, модерации
+- Агент-консультант для ответов на вопросы (`.claude/agents/`)
 - Цитирование источников с ссылками на оригинал
 
 ## Telegram-канал
