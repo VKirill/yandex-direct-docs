@@ -6,12 +6,12 @@ source: https://yandex.ru/support/direct/ru/campaign-master/sales-on-marketplace
 
 # Продажи на маркетплейсахβ
 
-- [Как работает](ru/campaign-master/sales-on-marketplaces#how-it-works)
-- [Как запустить продвижение](ru/campaign-master/sales-on-marketplaces#create)
-- [Правила атрибуции заказов на Яндекс Маркете и Ozon](ru/campaign-master/sales-on-marketplaces#pravila-atribucii-zakazov-na-yandeks-markete-i-ozon)
-- [Статистика кампании](ru/campaign-master/sales-on-marketplaces#statistics)
-- [Вопросы и ответы](ru/campaign-master/sales-on-marketplaces#voprosy-i-otvety)
-  - [Не формируются объявления для товаров с маркетплейса](ru/campaign-master/sales-on-marketplaces#ne-formiruyutsya-obuyavleniya-dlya-tovarov-s-marketplejsa)
+- [Как работает](../campaign-master/sales-on-marketplaces.md#how-it-works)
+- [Как запустить продвижение](../campaign-master/sales-on-marketplaces.md#create)
+- [Правила атрибуции заказов на Яндекс Маркете и Ozon](../campaign-master/sales-on-marketplaces.md#pravila-atribucii-zakazov-na-yandeks-markete-i-ozon)
+- [Статистика кампании](../campaign-master/sales-on-marketplaces.md#statistics)
+- [Вопросы и ответы](../campaign-master/sales-on-marketplaces.md#voprosy-i-otvety)
+  - [Не формируются объявления для товаров с маркетплейса](../campaign-master/sales-on-marketplaces.md#ne-formiruyutsya-obuyavleniya-dlya-tovarov-s-marketplejsa)
 
 Кампания «Продажи на маркетплейсахβ» доступна для настройки в Мастере кампаний. Она предназначена для продавцов, которые хотят продвигать товары и увеличивать продажи на маркетплейсах:
 
@@ -103,7 +103,7 @@ source: https://yandex.ru/support/direct/ru/campaign-master/sales-on-marketplace
   > Пользователь увидел объявление о чайнике, перешел по нему в магазин на Ozon. После этого зашел в карточку продавца, выбрал микроволновку и купил ее. Такой заказ будет считаться органическим, не будет считаться конверсией в Директе и будет для вас бесплатным.
 
 
-  С помощью [Единой перфоманс-кампании](ru/unified-performance-campaign/create-campaign#marketplaces-attribution) вы можете продвигать каталоги товаров и весь магазин на Ozon. Покупки любых товаров, на карточки которых пользователь перейдет из данного каталога или магазина (в зависимости от того, куда ведет объявление), будут учитываться как конверсия.
+  С помощью [Единой перфоманс-кампании](../unified-performance-campaign/create-campaign.md#marketplaces-attribution) вы можете продвигать каталоги товаров и весь магазин на Ozon. Покупки любых товаров, на карточки которых пользователь перейдет из данного каталога или магазина (в зависимости от того, куда ведет объявление), будут учитываться как конверсия.
 
 ## Статистика кампании
 
@@ -118,7 +118,7 @@ source: https://yandex.ru/support/direct/ru/campaign-master/sales-on-marketplace
 **Статистика по объявлениям**
 :   В блоке отображается статистика по товарам: показы, клики, конверсии, стоимость конверсии и расход. Для Озона и Маркета также указываются доход и ДРР. Товары на странице сортируются по убыванию — по конверсиям, кликам и показам.
 
-Сравнить показатели работы кампании с другими типами объявлений можно в [Мастере отчетов](ru/statistics/report-wizard).
+Сравнить показатели работы кампании с другими типами объявлений можно в [Мастере отчетов](../statistics/report-wizard.md).
 
 ## Вопросы и ответы
 
@@ -137,83 +137,3 @@ source: https://yandex.ru/support/direct/ru/campaign-master/sales-on-marketplace
   - **Wildberries** — в ссылке должно быть слово *seller*: `wildberries.ru/seller/{id_селлера}`.
   - **Авито** — в ссылке должно быть слово *user* или *brands*: `avito.ru/user/{id_продавца}/profile` или `avito.ru/.brands/{id_магазина}/all`.
 - Продвигаемые товары в наличии. Объявления не будут показаны, если товар закончился в магазине на маркетплейсе.
-- В магазине есть товары, соответствующие заданным фильтрам. Объявления не будут показаны, если задан фильтр, по которому не нашлось товаров.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Товарная кампания](ru/campaign-master/product-campaign)
-
-Следующая
-
-[Подписчики в телеграм-канал](ru/campaign-master/telegram)

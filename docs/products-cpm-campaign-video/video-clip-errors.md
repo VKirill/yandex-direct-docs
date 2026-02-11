@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/video-clip-errors
 ---
 
-Ошибки при загрузке видеороликов
 
 # Ошибки при загрузке видеороликов
 
@@ -15,4 +14,4 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/video-cl
 
 *\* В сообщении об ошибке вместо переменной {value} будет подставлено значение параметра загруженного видеоролика.*
 
-Если у вас остались вопросы, [напишите нам](ru/troubleshooting/interface).
+Если у вас остались вопросы, [напишите нам](../troubleshooting/interface.md).

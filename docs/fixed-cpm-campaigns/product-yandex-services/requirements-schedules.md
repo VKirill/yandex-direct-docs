@@ -2,26 +2,25 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules
 ---
 
-Требования к баннерам на Яндекс Расписаниях
 
 # Требования к баннерам на Яндекс Расписаниях
 
-- [Общие требования](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#general-requirements)
-- [Дополнительные требования](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#additional-requirements)
+- [Общие требования](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#general-requirements)
+- [Дополнительные требования](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#additional-requirements)
 
 ## Общие требования
 
-Рекламные материалы в формате HTML5 должны соответствовать требованиям, изложенным в документе [Технические требования к баннеру HTML5](ru/products-cpm-campaign/requirements).
+Рекламные материалы в формате HTML5 должны соответствовать требованиям, изложенным в документе [Технические требования к баннеру HTML5](../../products-cpm-campaign/requirements.md).
 
 Баннер не должен мимикрировать под оформление площадки (нельзя использовать фирменные цвета, элементы интерфейса. Креатив не должен сливаться с фоном сайта).
 
 |  |  |
 | --- | --- |
 | **Название баннера** | **Размер баннера в пикселях** |
-| [R1](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#R1) | 300 × 600 |
-| [Сниппет](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#snippet) | 100% × 110 |
-| [Top Mobile](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#top-mobile) | 100% × 150 |
-| [Grand Mobile](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules#grand-mobile) | 100% × 400 |
+| [R1](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#R1) | 300 × 600 |
+| [Сниппет](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#snippet) | 100% × 110 |
+| [Top Mobile](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#top-mobile) | 100% × 150 |
+| [Grand Mobile](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md#grand-mobile) | 100% × 400 |
 
 Примечание
 
@@ -41,7 +40,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 2. Максимальный вес архива: 512 КБ.
 3. Максимальный вес файла `index.html`: 150 КБ.
 4. Размер «R1»: 300 × 600 пикселей.
-5. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+5. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Сниппет (100% × 110)
 
@@ -59,7 +58,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта (изучения содержания страницы или ввода запроса), а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Top Mobile или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Яндекс Расписания.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Top Mobile (100% × 150)
 
@@ -77,7 +76,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта (изучения содержания страницы или ввода запроса), а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Top Mobile или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном Яндекс Расписания.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Grand Mobile (100% × 400)
 
@@ -95,83 +94,3 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта (изучения содержания страницы или ввода запроса), а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Top Mobile или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном Яндекс Расписания.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Требования к баннерам на Авто.ру](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru)
-
-Следующая
-
-[Требования к баннерам на Яндекс Услугах](ru/fixed-cpm-campaigns/product-yandex-services/requirements-services)

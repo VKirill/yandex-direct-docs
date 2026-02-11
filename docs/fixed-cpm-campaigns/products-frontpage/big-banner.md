@@ -2,16 +2,15 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/products-frontpage/big-banner
 ---
 
-Рекомендации по оформлению
 
 # Рекомендации по оформлению
 
-- [Расположение текста и элементов баннера](ru/fixed-cpm-campaigns/products-frontpage/big-banner#placement)
-- [Шрифт](ru/fixed-cpm-campaigns/products-frontpage/big-banner#font)
-- [Изображение](ru/fixed-cpm-campaigns/products-frontpage/big-banner#image)
-- [Элементы креатива](ru/fixed-cpm-campaigns/products-frontpage/big-banner#elements)
-- [Рекомендованные цвета](ru/fixed-cpm-campaigns/products-frontpage/big-banner#colors)
-- [Оформление предупреждений и обязательной юридической информации](ru/fixed-cpm-campaigns/products-frontpage/big-banner#main-info)
+- [Расположение текста и элементов баннера](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#placement)
+- [Шрифт](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#font)
+- [Изображение](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#image)
+- [Элементы креатива](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#elements)
+- [Рекомендованные цвета](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#colors)
+- [Оформление предупреждений и обязательной юридической информации](../../fixed-cpm-campaigns/products-frontpage/big-banner.md#main-info)
 
 На странице представлены рекомендации по оформлению Премиум-баннера в поиске и Премум-билборда. Обратите внимание, что иллюстрации в уменьшенном размере.
 
@@ -124,84 +123,3 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/products-frontpa
 ## Оформление предупреждений и обязательной юридической информации
 
 Текст должен быть контрастным и легко читаемым. Минимальный размер шрифта — 22 пикселя. Информация должна присутствовать на экране не меньше 3 секунд и не занимать весь кадр. Вы можете указать предупреждения и обязательную юридическую информацию в нижней части баннера, вместе с основным объектом рекламы. Например, сменяющимися слайдами.
-
-Возможные варианты оформления:
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Требования к баннеру](ru/fixed-cpm-campaigns/premium-billboard/requirements)
-
-Следующая
-
-[Как оценить результат](ru/fixed-cpm-campaigns/premium-billboard/statistics)

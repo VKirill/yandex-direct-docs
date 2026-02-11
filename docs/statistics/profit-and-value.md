@@ -2,17 +2,16 @@
 source: https://yandex.ru/support/direct/ru/statistics/profit-and-value
 ---
 
-Доход и ценность конверсий
 
 # Доход и ценность конверсий
 
-- [Метрика «Доход»](ru/statistics/profit-and-value#metrika-«dohod»)
-  - [Как выбрать цели для расчета дохода](ru/statistics/profit-and-value#kak-vybrat-celi-dlya-rascheta-dohoda)
-  - [Как рассчитывается доход по выбранным целям](ru/statistics/profit-and-value#kak-rasschityvaetsya-dohod-po-vybrannym-celyam)
-- [Метрика «Ценность конверсий»](ru/statistics/profit-and-value#metrika-«cennost-konversij»)
-  - [Когда полезна информация о ценности конверсий](ru/statistics/profit-and-value#kogda-polezna-informaciya-o-cennosti-konversij)
-  - [Как рассчитывается ценность конверсий](ru/statistics/profit-and-value#kak-rasschityvaetsya-cennost-konversij)
-- [Доход и ценность конверсий в отчетах Директа](ru/statistics/profit-and-value#dohod-i-cennost-konversij-v-otchetah-direkta)
+- [Метрика «Доход»](../statistics/profit-and-value.md#metrika-«dohod»)
+  - [Как выбрать цели для расчета дохода](../statistics/profit-and-value.md#kak-vybrat-celi-dlya-rascheta-dohoda)
+  - [Как рассчитывается доход по выбранным целям](../statistics/profit-and-value.md#kak-rasschityvaetsya-dohod-po-vybrannym-celyam)
+- [Метрика «Ценность конверсий»](../statistics/profit-and-value.md#metrika-«cennost-konversij»)
+  - [Когда полезна информация о ценности конверсий](../statistics/profit-and-value.md#kogda-polezna-informaciya-o-cennosti-konversij)
+  - [Как рассчитывается ценность конверсий](../statistics/profit-and-value.md#kak-rasschityvaetsya-cennost-konversij)
+- [Доход и ценность конверсий в отчетах Директа](../statistics/profit-and-value.md#dohod-i-cennost-konversij-v-otchetah-direkta)
 
 «Доход» и «Ценность конверсий» — метрики, которые помогают отслеживать результаты продвижения в Директе с учетом бизнес-показателей. Эти метрики позволяют увидеть, как продвижение влияет на прибыль бизнеса.
 
@@ -110,91 +109,10 @@ source: https://yandex.ru/support/direct/ru/statistics/profit-and-value
 |  |  |  |
 | --- | --- | --- |
 | **Отчет** | **Доход** | **Ценность конверсий** |
-| [Новый Мастер отчетов](ru/statistics/about) | Да | Да |
+| [Новый Мастер отчетов](../statistics/about.md) | Да | Да |
 | Мастер отчетов | Нет | Да |
 | Страница кампаний | Да | Нет |
 | Страницы Товарной кампании, Продаж на маркетплейсах | Да | Нет |
 | Отчет «Обзор аккаунта» на странице **Обзор** | Да | Да |
 | Отчет «Динамические места на поиске» на странице **Обзор** | Да | Нет |
 | Библиотека пакетных стратегий | Да | Нет |
-
-Если вы используете API Директа для сбора данных статистики, все текущие поля продолжат работать в прежнем формате, а новые поля будут доступны в ближайшее время в сервисе Reports. [Подробнее](https://yandex.ru/dev/direct/doc/ru/spec?tabs=defaultTabsGroup-v0xy55hy_json).
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Отчет «Поисковые запросы»](ru/statistics/search-queries)
-
-Следующая
-
-[Как оценить работу стратегии с несколькими целями](ru/statistics/multiple-goals-strategy)

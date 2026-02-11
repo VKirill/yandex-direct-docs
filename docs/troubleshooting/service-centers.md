@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/troubleshooting/service-centers
 ---
 
-Представителям производителей бытовой техники и электроники
 
 # Представителям производителей бытовой техники и электроники
 
@@ -14,60 +13,3 @@ source: https://yandex.ru/support/direct/ru/troubleshooting/service-centers
 - или разместите на сайте и пришлите ссылку на страницу.
 
 Если у вас нет списка сайтов, мы не сможем поддержать это правило для вашего бренда.
-
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-
-Позвонить
-
-Связаться с нами можно круглосуточно по телефонам:
-
-**Россия**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code).
-
-Написать письмо
-
-
-### Полезные ссылки
-
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Видеокурс](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары и мероприятия](https://yandex.ru/adv/edu/events)
-
-### Узнайте больше
-
-- [Новое в Директе](https://yandex.ru/adv/news?tag=новое%20в%20директе)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)

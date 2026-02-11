@@ -2,26 +2,25 @@
 source: https://yandex.ru/support/direct/ru/campaigns/experiments
 ---
 
-A/B-эксперименты
 
 # A/B-эксперименты
 
-- [Шаг 1. Сформулируйте гипотезу](ru/campaigns/experiments#shag-1-sformulirujte-gipotezu)
-- [Шаг 2. Создайте тестируемые кампании](ru/campaigns/experiments#shag-2-sozdajte-testiruemye-kampanii)
-- [Шаг 3. Настройте эксперимент в Директе](ru/campaigns/experiments#shag-3-nastrojte-eksperiment-v-direkte)
-  - [Создайте новый эксперимент](ru/campaigns/experiments#sozdajte-novyj-eksperiment)
-  - [Заполните блок Параметры](ru/campaigns/experiments#zapolnite-blok-parametry)
-  - [Выберите варианты кампаний](ru/campaigns/experiments#vyberite-varianty-kampanij)
-  - [Как добавить кампанию в существующие эксперименты](ru/campaigns/experiments#kak-dobavit-kampaniyu-v-sushestvuyushie-eksperimenty)
-- [Шаг 4. Оцените статистику по эксперименту](ru/campaigns/experiments#shag-4-ocenite-statistiku-po-eksperimentu)
-- [Шаг 5. Завершите эксперимент](ru/campaigns/experiments#shag-5-zavershite-eksperiment)
+- [Шаг 1. Сформулируйте гипотезу](../campaigns/experiments.md#shag-1-sformulirujte-gipotezu)
+- [Шаг 2. Создайте тестируемые кампании](../campaigns/experiments.md#shag-2-sozdajte-testiruemye-kampanii)
+- [Шаг 3. Настройте эксперимент в Директе](../campaigns/experiments.md#shag-3-nastrojte-eksperiment-v-direkte)
+  - [Создайте новый эксперимент](../campaigns/experiments.md#sozdajte-novyj-eksperiment)
+  - [Заполните блок Параметры](../campaigns/experiments.md#zapolnite-blok-parametry)
+  - [Выберите варианты кампаний](../campaigns/experiments.md#vyberite-varianty-kampanij)
+  - [Как добавить кампанию в существующие эксперименты](../campaigns/experiments.md#kak-dobavit-kampaniyu-v-sushestvuyushie-eksperimenty)
+- [Шаг 4. Оцените статистику по эксперименту](../campaigns/experiments.md#shag-4-ocenite-statistiku-po-eksperimentu)
+- [Шаг 5. Завершите эксперимент](../campaigns/experiments.md#shag-5-zavershite-eksperiment)
 
 Примечание
 
 A/B-эксперименты доступны:
 
-- в [Единой перфоманс-кампании](ru/unified-performance-campaign/create-campaign) для продвижения сайтов и приложений, кроме кампаний с показами в телеграм-каналах;
-- в [медийных кампаниях](ru/branding).
+- в [Единой перфоманс-кампании](../unified-performance-campaign/create-campaign.md) для продвижения сайтов и приложений, кроме кампаний с показами в телеграм-каналах;
+- в [медийных кампаниях](../branding.md).
 
 ## Шаг 1. Сформулируйте гипотезу
 
@@ -110,84 +109,3 @@ A/B-эксперименты доступны:
 - В таблице со списком экспериментов или в правом верхнем углу отчета нажмите **Остановить эксперимент**. Выберите все или некоторые кампании — они продолжат работать с текущими настройками и без ограничения по выборке. Если убрать все галочки — все кампании из эксперимента будут остановлены.
 
 Внимание
-
-Для экспериментов с корректировками сначала остановите эксперимент, затем в настройках кампании вручную добавьте нужную корректировку.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Валидация файла](ru/feeds/validate)
-
-Следующая
-
-[API Яндекс Директа](ru/alternative-interfaces/api)

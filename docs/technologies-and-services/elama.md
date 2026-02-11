@@ -2,14 +2,13 @@
 source: https://yandex.ru/support/direct/ru/technologies-and-services/elama
 ---
 
-Платформа eLama
 
 # Платформа eLama
 
-- [Как создать новый аккаунт Директа в eLama](ru/technologies-and-services/elama#create)
-  - [Как войти в Директ](ru/technologies-and-services/elama#kak-vojti-v-direkt)
-  - [Как бесплатно получить консультацию и настройку кампаний в Директе через eLama](ru/technologies-and-services/elama#kak-besplatno-poluchit-konsultaciyu-i-nastrojku-kampanij-v-direkte-cherez-elama)
-- [Пополнение баланса Директа через eLama](ru/technologies-and-services/elama#balance)
+- [Как создать новый аккаунт Директа в eLama](../technologies-and-services/elama.md#create)
+  - [Как войти в Директ](../technologies-and-services/elama.md#kak-vojti-v-direkt)
+  - [Как бесплатно получить консультацию и настройку кампаний в Директе через eLama](../technologies-and-services/elama.md#kak-besplatno-poluchit-konsultaciyu-i-nastrojku-kampanij-v-direkte-cherez-elama)
+- [Пополнение баланса Директа через eLama](../technologies-and-services/elama.md#balance)
 
 [eLama](https://account.elama.global/direct/connect/yandex?&utm_source=lk_direct&utm_medium=spravka_ya&utm_campaign=consultation&utm_content=new&utm_term=new) — это платформа Яндекса для управления продвижением в интернете. Здесь можно запускать кампании, следить за результатами, автоматизировать рутину или подобрать специалистов, которые помогут настроить продвижение. Вместо множества сервисов — один интерфейс и единый комплект отчетных документов.
 
@@ -82,84 +81,3 @@ source: https://yandex.ru/support/direct/ru/technologies-and-services/elama
 Важно
 
 Пополнить баланс через eLama можно только для аккаунтов, которые созданы на платформе eLama.
-
-Подробнее о [пополнении баланса](https://help.elama.ru/article/45356) в Базе знаний eLama.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[ИИ-помощник](ru/technologies-and-services/ai-assistant)
-
-Следующая
-
-[Как посмотреть объявление на площадке](ru/impressions/view-ad)

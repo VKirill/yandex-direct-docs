@@ -2,27 +2,26 @@
 source: https://yandex.ru/support/direct/ru/search-lift/sl-enable
 ---
 
-Как запустить Search Lift
 
 # Как запустить Search Lift
 
-- [Каким условиям должна соответствовать кампания](ru/search-lift/sl-enable#kakim-usloviyam-dolzhna-sootvetstvovat-kampaniya)
-- [Шаг 1. Подготовьте кампанию](ru/search-lift/sl-enable#step1)
-- [Шаг 2. Настройте исследование](ru/search-lift/sl-enable#step2)
-- [Шаг 3. Отправьте кампанию на модерацию](ru/search-lift/sl-enable#step4)
-- [Рекомендации по запуску исследования](ru/search-lift/sl-enable#advice)
+- [Каким условиям должна соответствовать кампания](../search-lift/sl-enable.md#kakim-usloviyam-dolzhna-sootvetstvovat-kampaniya)
+- [Шаг 1. Подготовьте кампанию](../search-lift/sl-enable.md#step1)
+- [Шаг 2. Настройте исследование](../search-lift/sl-enable.md#step2)
+- [Шаг 3. Отправьте кампанию на модерацию](../search-lift/sl-enable.md#step4)
+- [Рекомендации по запуску исследования](../search-lift/sl-enable.md#advice)
 
 Search Lift запускается при старте кампании и завершается спустя примерно 10 дней после окончания показов. Исследование можно подключить для кампаний, у которых еще не было показов.
 
 ## Каким условиям должна соответствовать кампания
 
-Исследование Search Lift доступно для новых медийных кампаний с [баннерами](ru/products-cpm-campaign/about) и [видео](ru/products-cpm-campaign-video/about), в том числе непропускаемыми, [фиксированным CPM](ru/fixed-cpm-campaigns/products-fixed-cpm) и [видеобаннерами](ru/products-cpm-campaign-videobanner/about).
+Исследование Search Lift доступно для новых медийных кампаний с [баннерами](../products-cpm-campaign/about.md) и [видео](../products-cpm-campaign-video/about.md), в том числе непропускаемыми, [фиксированным CPM](../fixed-cpm-campaigns/products-fixed-cpm.md) и [видеобаннерами](../products-cpm-campaign-videobanner/about.md).
 
 Исследование Search Lift недоступно, если в кампании подключена стратегия «Ручное управление ставками».
 
 ## Шаг 1. Подготовьте кампанию
 
-Создайте новую [медийную кампанию](ru/products-cpm-campaign/create), укажите ее основные параметры и добавьте объявления.
+Создайте новую [медийную кампанию](../products-cpm-campaign/create.md), укажите ее основные параметры и добавьте объявления.
 
 Обязательные условия для проведения Search Lift:
 
@@ -65,84 +64,3 @@ Search Lift запускается при старте кампании и за
 - Установите бюджет от 300 000 руб.
 - Укажите длительность кампании — не менее 21 дня.
 - Убедитесь, что охват кампании — не менее 1 000 000 пользователей, а показы — от 5 000 000.
-
-Следуйте этим рекомендациям, чтобы стратегия принесла ожидаемые результаты, которые отразятся в исследовании Search Lift.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Как проводится](ru/search-lift/about)
-
-Следующая
-
-[Как посмотреть результаты](ru/search-lift/sl-results)

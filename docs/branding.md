@@ -2,14 +2,13 @@
 source: https://yandex.ru/support/direct/ru/branding
 ---
 
-Медийная реклама
 
 # Медийная реклама
 
-- [Какие задачи решает](ru/branding#kakie-zadachi-reshaet)
-- [Форматы размещения](ru/branding#formaty-razmesheniya)
-- [Инструменты для работы с медийными кампаниями](ru/branding#instrumenty-dlya-raboty-s-medijnymi-kampaniyami)
-- [Вопросы и ответы](ru/branding#q-a)
+- [Какие задачи решает](./branding.md#kakie-zadachi-reshaet)
+- [Форматы размещения](./branding.md#formaty-razmesheniya)
+- [Инструменты для работы с медийными кампаниями](./branding.md#instrumenty-dlya-raboty-s-medijnymi-kampaniyami)
+- [Вопросы и ответы](./branding.md#q-a)
 
 Медийная реклама — набор инструментов для запуска охватной рекламы, которая поможет рассказать о бренде и его предложениях на самых заметных позициях и решать задачи бизнеса на всех этапах воронки. Вы можете выбрать свой формат — медийные баннеры, видеореклама, видеобаннеры, а также премиум-форматы — Баннер под поисковой строкой, Премиум-билборд и медийные форматы в Поиске.
 
@@ -31,51 +30,51 @@ source: https://yandex.ru/support/direct/ru/branding
 
 ### Кампании с аукционной моделью
 
-- [Медийный баннер](ru/products-cpm-campaign/about)
-- [Баннер под поисковой строкой](ru/products-cpm-campaign-frontpage/about)
-- [Видеореклама](ru/products-cpm-campaign-video/about)
-- [Видеобаннер](ru/products-cpm-campaign-videobanner/about)
+- [Медийный баннер](./products-cpm-campaign/about.md)
+- [Баннер под поисковой строкой](./products-cpm-campaign-frontpage/about.md)
+- [Видеореклама](./products-cpm-campaign-video/about.md)
+- [Видеобаннер](./products-cpm-campaign-videobanner/about.md)
 
 ### Кампании с фиксированной стоимостью тысячи показов
 
-- [Баннер под поисковой строкой](ru/fixed-cpm-campaigns/products-fixed-cpm#frontpage)
-- [Премиум-баннер в поиске](ru/fixed-cpm-campaigns/products-fixed-cpm#premium-banner)
-- [Мини-баннер в поиске](ru/fixed-cpm-campaigns/products-fixed-cpm#mini-banner)
-- [Видеобаннер в поиске](ru/fixed-cpm-campaigns/products-fixed-cpm#videobanner)
-- [Премиум-билборд](ru/fixed-cpm-campaigns/products-fixed-cpm#premium-billbord)
-- [Брендирование обложки](ru/fixed-cpm-campaigns/products-fixed-cpm#branding-cover)
-- [Медийная реклама на сервисах Яндекса](ru/fixed-cpm-campaigns/products-fixed-cpm#yandex-services)
+- [Баннер под поисковой строкой](./fixed-cpm-campaigns/products-fixed-cpm.md#frontpage)
+- [Премиум-баннер в поиске](./fixed-cpm-campaigns/products-fixed-cpm.md#premium-banner)
+- [Мини-баннер в поиске](./fixed-cpm-campaigns/products-fixed-cpm.md#mini-banner)
+- [Видеобаннер в поиске](./fixed-cpm-campaigns/products-fixed-cpm.md#videobanner)
+- [Премиум-билборд](./fixed-cpm-campaigns/products-fixed-cpm.md#premium-billbord)
+- [Брендирование обложки](./fixed-cpm-campaigns/products-fixed-cpm.md#branding-cover)
+- [Медийная реклама на сервисах Яндекса](./fixed-cpm-campaigns/products-fixed-cpm.md#yandex-services)
 
 ## Инструменты для работы с медийными кампаниями
 
 ### Стратегии показов
 
-- [Рост брендовых метрикβ](ru/strategies/growth-of-brand-metrics)
-- [Рост запросов в Поиске](ru/strategies/optimize-queries-in-search)
-- [Рост визитов на сайт](ru/strategies/growth-of-site-visits)
-- [Рост целевых действий на сайте](ru/strategies/growth-of-conversions)
-- [Максимум показов по минимальной цене](ru/strategies/maximize-impressions-for-lowest-price)
-- [Снижение цены повторных показов](ru/strategies/decrease-price-for-repeat-impressions)
-- [Оплата за просмотры](ru/strategies/maximum-video-views)
+- [Рост брендовых метрикβ](./strategies/growth-of-brand-metrics.md)
+- [Рост запросов в Поиске](./strategies/optimize-queries-in-search.md)
+- [Рост визитов на сайт](./strategies/growth-of-site-visits.md)
+- [Рост целевых действий на сайте](./strategies/growth-of-conversions.md)
+- [Максимум показов по минимальной цене](./strategies/maximize-impressions-for-lowest-price.md)
+- [Снижение цены повторных показов](./strategies/decrease-price-for-repeat-impressions.md)
+- [Оплата за просмотры](./strategies/maximum-video-views.md)
 
 ### Исследования эффективности рекламы
 
-- [Brand Lift](ru/brand-lift)
-- [Search Lift](ru/search-lift)
-- [Visit Lift](ru/visit-lift)
-- [Target Lift](ru/target-lift)
+- [Brand Lift](./brand-lift.md)
+- [Search Lift](./search-lift.md)
+- [Visit Lift](./visit-lift.md)
+- [Target Lift](./target-lift.md)
 
 ### Таргетинги
 
-- [Профиль пользователей](ru/products-cpm-campaign/display-ads-settings)
-- [Жанры и тематики](ru/products-cpm-campaign/genres-and-themes)
-- [Ограничение показов по типам контента](ru/inappropriate-content)
+- [Профиль пользователей](./products-cpm-campaign/display-ads-settings.md)
+- [Жанры и тематики](./products-cpm-campaign/genres-and-themes.md)
+- [Ограничение показов по типам контента](./inappropriate-content.md)
 
 ### Прочие инструменты
 
-- [Интеграция со сторонними верификаторами](ru/integrations/verifiers)
+- [Интеграция со сторонними верификаторами](./integrations/verifiers.md)
 
-- [Пиксель AppMetrica для рекламы приложений](ru/integrations/appmetrica)
+- [Пиксель AppMetrica для рекламы приложений](./integrations/appmetrica.md)
 
 ## Вопросы и ответы
 
@@ -85,8 +84,8 @@ source: https://yandex.ru/support/direct/ru/branding
 
 В Директе для решения таких задач предназначены следующие типы кампаний:
 
-- Медийная кампания — размещение [медийных баннеров](ru/products-cpm-campaign/about) в Рекламной сети Яндекса и [видеорекламы](ru/products-cpm-campaign-video/about).
-- Медийная кампания на новой вкладке Браузера — размещение [медийного баннера на новой вкладке Яндекса Браузера](ru/products-cpm-campaign-frontpage/about).
+- Медийная кампания — размещение [медийных баннеров](./products-cpm-campaign/about.md) в Рекламной сети Яндекса и [видеорекламы](./products-cpm-campaign-video/about.md).
+- Медийная кампания на новой вкладке Браузера — размещение [медийного баннера на новой вкладке Яндекса Браузера](./products-cpm-campaign-frontpage/about.md).
 
 Сколько стоит разместить медийную рекламу?
 
@@ -94,7 +93,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
 Стоимость рекламы будет зависеть от выбранного формата, особенностей бизнеса, индустрии, активности конкурентов, таргетингов и других факторов. Так, для медийных кампаний с баннерами, видео или видеобаннерами стоимость тысячи показов (CPM) стартует от 5 рублей. Прогнозатор Директа подскажет оптимальную ставку. Стоимость показов определяется в результате торгов между рекламодателями. При этом используется принцип аукциона второй цены: победитель заплатит ставку ближайшего конкурента + шаг торгов.
 
-Для баннера под поисковой строкой установлены [ценовые пороги](ru/products-cpm-campaign-frontpage/min-bid) в зависимости от региона показов.
+Для баннера под поисковой строкой установлены [ценовые пороги](./products-cpm-campaign-frontpage/min-bid.md) в зависимости от региона показов.
 
 Премиальные форматы закупаются по модели фиксированной стоимости тысячи показов (fixCPM). Подробнее об условиях для каждого формата — на страницах Портала Рекламы: [Баннер под поисковой строкой](https://yandex.ru/adv/products/display/banner-searchbar), [Премиум-баннер в Поиске, Видеобаннер в Поиске, Мини-баннер в Поиске, Премиум-билборд](https://yandex.ru/adv/products/display/premium-ads).
 
@@ -113,7 +112,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
   Медийные баннеры размещаются на собственных сервисах Яндекса, а также площадках Рекламной сети, прошедших строгую модерацию, что исключает возможность неблагоприятного окружения. Показы на разных экранах — смартфонах, планшетах, компьютерах, Connected TV — позволяют усилить воздействие на целевую аудиторию и увеличить охват.
 
-  [Подробнее о Рекламной сети Яндекса](ru/general/yan)
+  [Подробнее о Рекламной сети Яндекса](./general/yan.md)
 
   Российские агентства, работающие с Директом по договору, могут самостоятельно договориться о размещении баннеров с отдельными площадками ADFOX.
 
@@ -123,7 +122,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
   Рекламный ролик может встраиваться в потоковое видео, на страницу сайта или в мобильное приложение. Позволяет доносить преимущества бренда до пользователей в максимально емком формате на всех этапах воронки.
 
-  [Подробнее о Видеосети Яндекса](ru/general/yan#yan-partners)
+  [Подробнее о Видеосети Яндекса](./general/yan.md#yan-partners)
 
 - **Видеобаннеры**
 
@@ -135,7 +134,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
 В единой кампании вы можете настроить корректировки ставок для разных типов инвентаря.
 
-[Подробнее](ru/impressions/bids-adjustment#how-it-works)
+[Подробнее](./impressions/bids-adjustment.md#how-it-works)
 
 Можно ли продолжить коммуникацию с теми, кому я уже показал медийную рекламу?
 
@@ -145,13 +144,13 @@ source: https://yandex.ru/support/direct/ru/branding
 
 Подробнее о сборе аудитории:
 
-- [для медийных баннеров](ru/products-cpm-campaign/retargeting-cpm-campaign);
-- [для видео](ru/products-cpm-campaign-video/retargeting);
-- [для баннера под поисковой строкой](ru/products-cpm-campaign-frontpage/retargeting).
+- [для медийных баннеров](./products-cpm-campaign/retargeting-cpm-campaign.md);
+- [для видео](./products-cpm-campaign-video/retargeting.md);
+- [для баннера под поисковой строкой](./products-cpm-campaign-frontpage/retargeting.md).
 
 Чем отличаются медийные баннеры от графических объявлений?
 
-Медийные кампании направлены на решение задач верхней части маркетинговой воронки, таких как повышение узнаваемости бренда, стимулирование спроса. Настройки медийных кампаний позволяют обратиться к широкому кругу потенциальных клиентов: нацеливать показы по [профилю пользователя](ru/products-cpm-campaign/display-ads-settings), использовать охватные стратегии — [Максимум показов по минимальной цене](ru/strategies/maximize-impressions-for-lowest-price) или [Снижение цены повторных показов](ru/strategies/decrease-price-for-repeat-impressions). Для сегмента пользователей, видевших медийный баннер, вы можете построить [различные сценарии](ru/products-cpm-campaign/retargeting-cpm-campaign) дальнейшего взаимодействия.
+Медийные кампании направлены на решение задач верхней части маркетинговой воронки, таких как повышение узнаваемости бренда, стимулирование спроса. Настройки медийных кампаний позволяют обратиться к широкому кругу потенциальных клиентов: нацеливать показы по [профилю пользователя](./products-cpm-campaign/display-ads-settings.md), использовать охватные стратегии — [Максимум показов по минимальной цене](./strategies/maximize-impressions-for-lowest-price.md) или [Снижение цены повторных показов](./strategies/decrease-price-for-repeat-impressions.md). Для сегмента пользователей, видевших медийный баннер, вы можете построить [различные сценарии](./products-cpm-campaign/retargeting-cpm-campaign.md) дальнейшего взаимодействия.
 
 Как работает ограничение по частоте в медийной кампании?
 
@@ -159,7 +158,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
 Ограничение применяется на всех устройствах пользователя (cross-device) и действует как на баннеры, так и на видео. Таким образом, один человек увидит ваше рекламное сообщение не более указанного количества раз.
 
-[Подробнее об ограничении частоты](ru/campaigns/campaign-settings#settings)
+[Подробнее об ограничении частоты](./campaigns/campaign-settings.md#settings)
 
 Почему заданная частота показов не выдерживается?
 
@@ -173,7 +172,7 @@ source: https://yandex.ru/support/direct/ru/branding
 
 Яндекс очень серьезно относится к безопасности размещенной рекламы, поэтому применяет многоступенчатые фильтры для отсеивания недобросовестных и ошибочных показов и кликов. Показы, которые Директ определил как недействительные, не учитываются в отчетах статистики, и средства за них не списываются со счета рекламодателя.
 
-[Подробнее о защите от фрода](ru/technologies-and-services/antifraud)
+[Подробнее о защите от фрода](./technologies-and-services/antifraud.md)
 
 Какие варианты размещения аудио- и DOOH-рекламы есть в Яндексе?
 
@@ -182,84 +181,3 @@ source: https://yandex.ru/support/direct/ru/branding
 Не хочу разбираться в тонкостях, может мне кто-нибудь помочь?
 
 Размещая рекламу в Директе самостоятельно, вы можете на любом этапе работы обратиться за помощью в отдел клиентского сервиса. Мы ответим на ваши вопросы и дадим рекомендации по дальнейшему размещению.
-
-Вы также можете обратиться к нашим партнерам — с Яндексом сотрудничает множество [рекламных агентств](http://advertising.yandex.ru/contact/agency/?from=direct-help) по всему миру.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Охватные кампании](ru/reach-campaigns)
-
-Следующая
-
-[Медийные баннеры](ru/products-cpm-campaign/about)

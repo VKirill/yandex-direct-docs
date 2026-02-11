@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/impression-criteria/universal-links
 ---
 
-Трекинговые ссылки на базе Universal Links
 
 # Трекинговые ссылки на базе Universal Links
 
@@ -32,7 +31,7 @@ AppsFlyer
 - как настроить [Universal Links](https://help.adjust.com/en/article/set-up-universal-links) ;
 - как создать [трекинговую ссылку](https://help.adjust.com/en/article/create-a-universal-link).
 
-Обязательные параметры описаны в разделе [Adjust](ru/products-mobile-apps-ads/tracking-systems#tracking-links). Для Universal Links от Adjust нужно добавить в параметры префикс `adjust_`или `adj_`, например: `adj_ya_click_id={logid}`. Для корректного учета конверсий при переходах на сайт добавьте в URL фолбека на сайт параметр `yclid={logid}`. При этом кодировать нужно все символы, кроме `{logid}`.
+Обязательные параметры описаны в разделе [Adjust](../products-mobile-apps-ads/tracking-systems.md#tracking-links). Для Universal Links от Adjust нужно добавить в параметры префикс `adjust_`или `adj_`, например: `adj_ya_click_id={logid}`. Для корректного учета конверсий при переходах на сайт добавьте в URL фолбека на сайт параметр `yclid={logid}`. При этом кодировать нужно все символы, кроме `{logid}`.
 
 Пример ссылки:
 
@@ -49,7 +48,7 @@ https://sb00.adj.st/cars/new/group/bmw/3er/21398591-21398651?adjust_ya_click_id=
 - как настроить [OneLink](https://dev.appsflyer.com/hc/docs/getting-started-1);
 - как создать [трекинговую ссылку](https://support.appsflyer.com/hc/ru/articles/207033836-OneLink-3-4-%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D0%B4%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2).
 
-Обязательные параметры описаны в разделе [AppsFlyer](ru/products-mobile-apps-ads/tracking-systems#tracking-links).
+Обязательные параметры описаны в разделе [AppsFlyer](../products-mobile-apps-ads/tracking-systems.md#tracking-links).
 
 Пример ссылки:
 
@@ -70,75 +69,3 @@ https://sb00.adj.st/cars/new/group/bmw/3er/21398591-21398651?adjust_ya_click_id=
     </url>
 ...
 </offer>
-```
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)

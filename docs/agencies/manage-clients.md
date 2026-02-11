@@ -2,20 +2,19 @@
 source: https://yandex.ru/support/direct/ru/agencies/manage-clients
 ---
 
-Работа с клиентами
 
 # Работа с клиентами
 
-- [Регистрация нового клиента](ru/agencies/manage-clients#new-client)
-- [Доступ клиента к Директу](ru/agencies/manage-clients#access)
-- [Как войти в кабинет клиента в режиме паспортной организации](ru/agencies/manage-clients#kak-vojti-v-kabinet-klienta-v-rezhime-pasportnoj-organizacii)
-- [Ограничение доступа клиента к Директу](ru/agencies/manage-clients#ogranichenie-dostupa-klienta-k-direktu)
-  - [Удаление представителя клиента](ru/agencies/manage-clients#udalenie-predstavitelya-klienta)
-  - [Смена главного представителя клиента](ru/agencies/manage-clients#smena-glavnogo-predstavitelya-klienta)
-- [Как вернуть доступ к логину клиента](ru/agencies/manage-clients#kak-vernut-dostup-k-loginu-klienta)
-- [Как показать клиенту контакты агентства в интерфейсе](ru/agencies/manage-clients#kak-pokazat-klientu-kontakty-agentstva-v-interfejse)
-- [Как изменить электронный адрес уведомлений](ru/agencies/manage-clients#kak-izmenit-elektronnyj-adres-uvedomlenij)
-- [Как настроить SMS-уведомления для аккаунта клиента](ru/agencies/manage-clients#kak-nastroit-sms-uvedomleniya-dlya-akkaunta-klienta)
+- [Регистрация нового клиента](../agencies/manage-clients.md#new-client)
+- [Доступ клиента к Директу](../agencies/manage-clients.md#access)
+- [Как войти в кабинет клиента в режиме паспортной организации](../agencies/manage-clients.md#kak-vojti-v-kabinet-klienta-v-rezhime-pasportnoj-organizacii)
+- [Ограничение доступа клиента к Директу](../agencies/manage-clients.md#ogranichenie-dostupa-klienta-k-direktu)
+  - [Удаление представителя клиента](../agencies/manage-clients.md#udalenie-predstavitelya-klienta)
+  - [Смена главного представителя клиента](../agencies/manage-clients.md#smena-glavnogo-predstavitelya-klienta)
+- [Как вернуть доступ к логину клиента](../agencies/manage-clients.md#kak-vernut-dostup-k-loginu-klienta)
+- [Как показать клиенту контакты агентства в интерфейсе](../agencies/manage-clients.md#kak-pokazat-klientu-kontakty-agentstva-v-interfejse)
+- [Как изменить электронный адрес уведомлений](../agencies/manage-clients.md#kak-izmenit-elektronnyj-adres-uvedomlenij)
+- [Как настроить SMS-уведомления для аккаунта клиента](../agencies/manage-clients.md#kak-nastroit-sms-uvedomleniya-dlya-akkaunta-klienta)
 
 ## Регистрация нового клиента
 
@@ -29,7 +28,7 @@ source: https://yandex.ru/support/direct/ru/agencies/manage-clients
 
 Примечание
 
-Правилами [Рекламной политики Яндекса](ru/moderation/adv-rules) запрещено размещение разных клиентов под одним логином или паспортной организацией.
+Правилами [Рекламной политики Яндекса](../moderation/adv-rules.md) запрещено размещение разных клиентов под одним логином или паспортной организацией.
 
 1. Внизу страницы **Мои клиенты** в разделе **Управление клиентами** нажмите [Регистрация нового клиента](https://direct.yandex.ru/registered/main.pl?cmd=showRegisterLoginPage).
 2. Заполните форму регистрации:
@@ -76,7 +75,7 @@ source: https://yandex.ru/support/direct/ru/agencies/manage-clients
 
    Создавать новый аккаунт для вступления в организацию не нужно.
 
-При входе в Директ в режиме паспортной организации у всех ее сотрудников, вне зависимости от роли в организации, будет доступ главного представителя клиента. Главный представитель клиента может не только управлять кампаниями и просматривать статистику, но и редактировать уровень доступа других представителей клиента. Подробнее [об управлении представителями клиента](https://yandex.ru/support/direct/ru/campaigns/representatives).
+При входе в Директ в режиме паспортной организации у всех ее сотрудников, вне зависимости от роли в организации, будет доступ главного представителя клиента. Главный представитель клиента может не только управлять кампаниями и просматривать статистику, но и редактировать уровень доступа других представителей клиента. Подробнее [об управлении представителями клиента](../campaigns/representatives.md).
 
 ## Как войти в кабинет клиента в режиме паспортной организации
 
@@ -123,7 +122,7 @@ source: https://yandex.ru/support/direct/ru/agencies/manage-clients
 Если доступ к логину клиента, добавленного в паспортную организацию, не удалось восстановить по [стандартной процедуре](http://passport.yandex.ru/passport?mode=restore), то:
 
 1. Удалите старый логин из паспортной организации.
-2. [Отправьте приглашение](ru/agencies/manage-clients#access) на другой логин клиента.
+2. [Отправьте приглашение](../agencies/manage-clients.md#access) на другой логин клиента.
 
 ## Как показать клиенту контакты агентства в интерфейсе
 
@@ -162,83 +161,3 @@ source: https://yandex.ru/support/direct/ru/agencies/manage-clients
 
 1. На странице **Мои клиенты** перейдите на страницу кампаний нужного клиента.
 2. В меню слева нажмите на логин клиента и перейдите в **Настройки пользователя**.
-3. В поле **SMS-уведомления** нажмите **Настроить**. Укажите номер телефона, на который клиент будет получать уведомления, и настройте время отправки уведомлений. Нажмите **Сохранить**.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Гид по интерфейсу](ru/agencies/interface-guide)
-
-Следующая
-
-[Управление представителями агентства](ru/agencies/representatives)

@@ -2,24 +2,23 @@
 source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/tracking-systems
 ---
 
-Настройка ссылки в трекинговой системе
 
 # Настройка ссылки в трекинговой системе
 
-- [Верификация приложения в трекинговой системе](ru/products-mobile-apps-ads/tracking-systems#verification)
-- [Добавьте приложение в библиотеку Директа](ru/products-mobile-apps-ads/tracking-systems#add-aps)
-- [Трекинговые ссылки](ru/products-mobile-apps-ads/tracking-systems#tracking-links)
-  - [Продвижение на мобильных устройствах и планшетах](ru/products-mobile-apps-ads/tracking-systems#tracking-links-mobile)
-  - [Продвижение на Connected TV и десктопах](ru/products-mobile-apps-ads/tracking-systems#tracking-links-ctv)
-- [Диплинк](ru/products-mobile-apps-ads/tracking-systems#deeplink)
-- [Отложенный диплинк](ru/products-mobile-apps-ads/tracking-systems#delayed-deeplink)
-- [Кастомные страницы приложения](ru/products-mobile-apps-ads/tracking-systems#custom-pages)
+- [Верификация приложения в трекинговой системе](../products-mobile-apps-ads/tracking-systems.md#verification)
+- [Добавьте приложение в библиотеку Директа](../products-mobile-apps-ads/tracking-systems.md#add-aps)
+- [Трекинговые ссылки](../products-mobile-apps-ads/tracking-systems.md#tracking-links)
+  - [Продвижение на мобильных устройствах и планшетах](../products-mobile-apps-ads/tracking-systems.md#tracking-links-mobile)
+  - [Продвижение на Connected TV и десктопах](../products-mobile-apps-ads/tracking-systems.md#tracking-links-ctv)
+- [Диплинк](../products-mobile-apps-ads/tracking-systems.md#deeplink)
+- [Отложенный диплинк](../products-mobile-apps-ads/tracking-systems.md#delayed-deeplink)
+- [Кастомные страницы приложения](../products-mobile-apps-ads/tracking-systems.md#custom-pages)
 
 Получить данные о новых установках из магазина приложений можно с помощью трекинговой системы. Она сопоставляет установки и действия в приложении с переходами по объявлению и передает эти данные в Директ для подсчета *конверсии*.
 
 Подключение трекинговой системы дает возможность:
 
-- [оптимизировать](ru/strategies/average-cpa-mobile-apps) кампанию на установки и события в приложении;
+- [оптимизировать](../strategies/average-cpa-mobile-apps.md) кампанию на установки и события в приложении;
 - точно собирать статистику по установкам и событиям внутри приложения, которая будет доступна и в Директе, и в трекинговой системе.
 
 Директ поддерживает следующие трекинговые системы: [AppMetrica](https://appmetrika.yandex.ru), [AppsFlyer](http://www.appsflyer.com/), [Adjust](https://www.adjust.com/), [Branch](https://branch.io/), [Kochava](http://www.kochava.com/), [MyTracker](https://tracker.my.com/), [Singular](https://www.singular.net/), [Tenjin](https://www.tenjin.com/) и [AirBridge](https://www.airbridge.io/). Поддержка SKAdNetwork для кампании на iOS 14.5 работает в системах AppMetrica, AppsFlyer и Adjust.
@@ -37,7 +36,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/tracking-sy
 
 ##### **Adjust или AppsFlyer**
 
-Укажите [App ID](ru/products-mobile-apps-ads/tracking-systems#добавьте-приложения-в-библиотеку-директа-add-aps) при настройке интеграции, и приложение будет верифицировано после получения первого постбека от мобильного трекера (вы увидите значок  в настройках приложения).
+Укажите [App ID](../products-mobile-apps-ads/tracking-systems.md#добавьте-приложения-в-библиотеку-директа-add-aps) при настройке интеграции, и приложение будет верифицировано после получения первого постбека от мобильного трекера (вы увидите значок  в настройках приложения).
 
 В случае с AppsFlyer, чтобы верификация прошла успешно и Директ получал обогащенные данные о конверсиях, в настройках интеграции в трекере с Директом отключите [фреймворк агрегированной расширенной конфиденциальности](https://support.appsflyer.com/hc/ru/articles/360018515798-%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA-%D0%90%D0%B3%D1%80%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8).
 
@@ -46,7 +45,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/tracking-sy
 Чтобы настроить связь Директа и трекинговой системы, добавьте приложение в библиотеку.
 
 1. В меню слева нажмите **Библиотека** и выберите **Мобильные приложения**. Нажмите **Добавить приложение**.
-2. Укажите ссылку на приложение в AppStore или Google Play. Директ загрузит из магазина иконку, цену, рейтинг, количество оценок и технические характеристики приложения. Используйте App ID, полученный после добавления приложения, для настроек [трекинговых ссылок](ru/products-mobile-apps-ads/tracking-systems#tracking-links).
+2. Укажите ссылку на приложение в AppStore или Google Play. Директ загрузит из магазина иконку, цену, рейтинг, количество оценок и технические характеристики приложения. Используйте App ID, полученный после добавления приложения, для настроек [трекинговых ссылок](../products-mobile-apps-ads/tracking-systems.md#tracking-links).
 
 Обратите внимание, система получает данные для той страны, которая указана в ссылке на магазин приложений. По умолчанию данные загружаются для России. Используйте специальные параметры, чтобы объявление вело на магазин приложений для определенной страны.
 
@@ -80,7 +79,7 @@ https://play.google.com/store/apps/details?id=com.yandex.browser&gl=ru
 https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}&source={source}
 ```
 
-С их помощью можно отслеживать различные статические показатели, например, источники трафика. Подробнее об [использовании параметров и меток](ru/statistics/url-tags).
+С их помощью можно отслеживать различные статические показатели, например, источники трафика. Подробнее об [использовании параметров и меток](../statistics/url-tags.md).
 
 Важно
 
@@ -90,7 +89,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}&source
 
 Внимание
 
-Если вы используете другую трекинговую систему, вы можете обратиться к ее владельцу (разработчику) с просьбой об интеграции с Директом. Заявки на подключение трекинговых систем к Директу принимаются только от владельцев этих систем через [форму обратной связи](ru/troubleshooting/tracking-system). Взаимодействие Директа с трекинговыми системами подробно описано в [документации](https://yastatic.net/s3/doc-binary/src/support/direct/ru/yandex-mobileapp-postback-guide.pdf).
+Если вы используете другую трекинговую систему, вы можете обратиться к ее владельцу (разработчику) с просьбой об интеграции с Директом. Заявки на подключение трекинговых систем к Директу принимаются только от владельцев этих систем через [форму обратной связи](../troubleshooting/tracking-system.md). Взаимодействие Директа с трекинговыми системами подробно описано в [документации](https://yastatic.net/s3/doc-binary/src/support/direct/ru/yandex-mobileapp-postback-guide.pdf).
 
 AppMetrica
 
@@ -129,7 +128,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Примечание
 
-Для корректной работы стратегии [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+Для корректной работы стратегии [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
 Настройки интеграции подробно описаны в [документации AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207033816-Integrated-partners-setup-guide#partner-setup).
 
@@ -149,7 +148,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Для iOS-приложений настройку **Advanced Privacy** оставьте выключенной. Это не повлияет на сбор данных и поможет улучшить обучение стратегий.
 
-1. Скопируйте **Yandex App ID** из библиотеки мобильных приложений. Где найти [App ID](ru/products-mobile-apps-ads/tracking-systems#add-aps).
+1. Скопируйте **Yandex App ID** из библиотеки мобильных приложений. Где найти [App ID](../products-mobile-apps-ads/tracking-systems.md#add-aps).
 2. Вставьте скопированный **App ID** в поле **Yandex App ID**.
 3. Включите опцию **In-app events postback** для передачи событий.
 4. Выберите события, которые вы хотите передавать в Директ. Их можно будет просматривать в Мастере Отчетов и использовать для оптимизации ставок.
@@ -164,7 +163,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 - **Создайте трекинговую ссылку в разделе на вкладке **Attribution Link**.**
 
-  В трекинговых ссылках можно использовать [динамические параметры Директа](ru/statistics/url-tags#dynamic). Если вы планируете использовать атрибуцию на показ в своих кампаниях, убедитесь что она включена в настройках трекера: **Конфигурация** → **Интеграции** → **Атрибуция на показ**.
+  В трекинговых ссылках можно использовать [динамические параметры Директа](../statistics/url-tags.md#dynamic). Если вы планируете использовать атрибуцию на показ в своих кампаниях, убедитесь что она включена в настройках трекера: **Конфигурация** → **Интеграции** → **Атрибуция на показ**.
 
   Подробнее создание трекинговой ссылки описано в [помощи AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207033816-Integrated-Partner-Configuration). Если у вас возникли вопросы по работе ссылки, обратитесь в [службу поддержки AppsFlyer](https://support.appsflyer.com/hc/en-us/requests/new).
 
@@ -178,7 +177,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
   - `idfa={ios_ifa}` — в кампаниях для iOS;
   - `is_retargeting=true` — для ретаргетинговых кампаний.
 
-  Для корректной работы стратегии [Оптимизация конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+  Для корректной работы стратегии [Оптимизация конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
   Рекомендуем включить передачу статуса органичности данных в трекере — количество передаваемых данных увеличится, а эффективность кампаний вырастет.
 
@@ -209,7 +208,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Примечание
 
-Для корректной работы стратегии [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+Для корректной работы стратегии [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
 Настройки интеграции подробно описаны в [документации Branch](https://help.branch.io/using-branch/docs/universal-ad-partner-integration-guide).
 
@@ -298,7 +297,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Примечание
 
-Для корректной работы стратегии [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+Для корректной работы стратегии [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
 Настройки интеграции подробно описаны в [документации MyTracker](https://tracker.my.com/docs/tracking/integration/yadirect/about).
 
@@ -321,7 +320,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Примечание
 
-Для корректной работы стратегии [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+Для корректной работы стратегии [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
 Настройки интеграции подробно описаны в [документации Singular](https://support.singular.net/hc/en-us/articles/360053018851#Configuration_Steps).
 
@@ -381,7 +380,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
      Их отсутствие может приводить к проблемам с атрибуцией, а также к неправильному количеству конверсий в интерфейсе Директа.
 
-     Для корректной работы стратегии [Оптимизация конверсий](ru/strategies/average-cpa-mobile-apps) убедитесь, что в трекере включена передача данных об установках приложения.
+     Для корректной работы стратегии [Оптимизация конверсий](../strategies/average-cpa-mobile-apps.md) убедитесь, что в трекере включена передача данных об установках приложения.
 
 Настройки интеграции подробно описаны в [документации Tenjin](https://docs.tenjin.com/docs/self-attributing-networks).
 
@@ -405,7 +404,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
   1. Перейдите в раздел **CONFIGURE** → **Apps** и выберите ваше приложение.
   2. Нажмите кнопку **+ New Callback**.
   3. Выберите **Yandex Install**.
-  4. Скопируйте **Yandex App ID** из библиотеки мобильных приложений Директа. Где найти [Yandex App ID](ru/products-mobile-apps-ads/tracking-systems#add-aps).
+  4. Скопируйте **Yandex App ID** из библиотеки мобильных приложений Директа. Где найти [Yandex App ID](../products-mobile-apps-ads/tracking-systems.md#add-aps).
   5. Заполните поле **Yandex App ID** и нажмите **Save Callback**.
 - **Скопируйте трекинговые ссылки**
 
@@ -425,7 +424,7 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
      Проверьте, что все нужные события имеют статус «Sending».
   2. На той же вкладке **Postback** откройте подраздел **Postback URL**. Найдите событие «Install (App)», разверните его и нажмите **Edit**.
-  3. В открывшемся окне пролистайте до конца список параметров и нажмите **+ Add**. Добавьте параметр с именем **ya-app-id**, в качестве значения укажите ваш **Yandex App ID**. Где найти [Yandex App ID](ru/products-mobile-apps-ads/tracking-systems#add-aps)
+  3. В открывшемся окне пролистайте до конца список параметров и нажмите **+ Add**. Добавьте параметр с именем **ya-app-id**, в качестве значения укажите ваш **Yandex App ID**. Где найти [Yandex App ID](../products-mobile-apps-ads/tracking-systems.md#add-aps)
   4. Нажмите **Save** внизу страницы для сохранения изменений.
 - **Создайте и скопируйте трекинговые ссылки**
 
@@ -434,8 +433,8 @@ https://appmetrica.yandex.com/serve/7438548069196542965/?click_id={logid}
 
 Полученная трекинговая ссылка потребуется при запуске продвижения:
 
-- в [Мастере кампаний](ru/products-mobile-apps-ads/create). Продублируйте ссылку в блоке редактирования группы в поле **Трекинговая ссылка**.
-- в [Единой перфоманс-кампании](ru/products-mobile-apps-ads/upc/about). Продублируйте ссылку при [создания объявления](ru/products-mobile-apps-ads/upc/create-ads) в поле **Трекинговая ссылка**.
+- в [Мастере кампаний](../products-mobile-apps-ads/create.md). Продублируйте ссылку в блоке редактирования группы в поле **Трекинговая ссылка**.
+- в [Единой перфоманс-кампании](../products-mobile-apps-ads/upc/about.md). Продублируйте ссылку при [создания объявления](../products-mobile-apps-ads/upc/create-ads.md) в поле **Трекинговая ссылка**.
 
 ### Продвижение на Connected TV и десктопах
 
@@ -500,8 +499,8 @@ Adjust
 
 Добавьте при создании кампаний на ретаргетинг:
 
-- в [Мастере кампаний](ru/products-mobile-apps-ads/create) в поле **Трекинговая ссылка**;
-- в [Единой перфоманс-кампании](ru/products-mobile-apps-ads/upc/about) с целью **Ретаргетинг** в поле **Диплинк** при создании объявления.
+- в [Мастере кампаний](../products-mobile-apps-ads/create.md) в поле **Трекинговая ссылка**;
+- в [Единой перфоманс-кампании](../products-mobile-apps-ads/upc/about.md) с целью **Ретаргетинг** в поле **Диплинк** при создании объявления.
 
 Для подготовки диплинка обратитесь к разработчику приложения.
 
@@ -511,8 +510,8 @@ Adjust
 
 Добавьте:
 
-- в [Мастере кампаний](ru/products-mobile-apps-ads/create) в поле **Трекинговая ссылка**. Для кампаний, запущенных на новую аудиторию;
-- в [Единой перфоманс-кампании](ru/products-mobile-apps-ads/upc/about) в поле **Отложенный диплинк** при создании объявления. Доступно только для кампаний с целью **Привлечение новых пользователей**.
+- в [Мастере кампаний](../products-mobile-apps-ads/create.md) в поле **Трекинговая ссылка**. Для кампаний, запущенных на новую аудиторию;
+- в [Единой перфоманс-кампании](../products-mobile-apps-ads/upc/about.md) в поле **Отложенный диплинк** при создании объявления. Доступно только для кампаний с целью **Привлечение новых пользователей**.
 
 Для подготовки диплинка обратитесь к разработчику приложения.
 
@@ -522,92 +521,9 @@ Adjust
 
 Добавьте:
 
-- в [Мастере кампаний](ru/products-mobile-apps-ads/create) ссылку на кастомную страницу в параметр редиректа;
-- в [Единой перфоманс-кампании](ru/products-mobile-apps-ads/upc/about) в поле **Кастомная страница приложения** при создании объявления. Доступно только для кампаний с целью **Привлечение новых пользователей**.
+- в [Мастере кампаний](../products-mobile-apps-ads/create.md) ссылку на кастомную страницу в параметр редиректа;
+- в [Единой перфоманс-кампании](../products-mobile-apps-ads/upc/about.md) в поле **Кастомная страница приложения** при создании объявления. Доступно только для кампаний с целью **Привлечение новых пользователей**.
 
 Для подготовки кастомной страницы приложения воспользуйтесь инструкцией магазина приложений:
 
 - [Google Play](https://support.google.com/googleplay/android-developer/answer/9867158?hl=ru);
-- [App Store](https://developer.apple.com/app-store/custom-product-pages/) (на английском языке).
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-
-Конверсия продвижения приложений — это отношение числа кликов по объявлению, которые привели к выполнению целевого действия с приложением, к общему числу кликов по объявлению.
-
-Предыдущая
-
-[Продвижение приложений](ru/products-mobile-apps-ads/about)
-
-Следующая
-
-[Продвижение на мобильных устройствах](ru/products-mobile-apps-ads/about-mobile)

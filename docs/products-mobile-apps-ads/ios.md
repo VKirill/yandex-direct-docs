@@ -2,14 +2,13 @@
 source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 ---
 
-Рекомендации по настройке кампаний для мобильных приложений
 
 # Рекомендации по настройке кампаний для мобильных приложений
 
-- [Рекомендации по настройке кампаний для приложений iOS](ru/products-mobile-apps-ads/ios#rekomendacii-po-nastrojke-kampanij-dlya-prilozhenij-ios)
-  - [Настройка и запуск](ru/products-mobile-apps-ads/ios#nastrojka-i-zapusk)
-  - [Статистика](ru/products-mobile-apps-ads/ios#statistika)
-  - [Для издателей приложений](ru/products-mobile-apps-ads/ios#dlya-izdatelej-prilozhenij)
+- [Рекомендации по настройке кампаний для приложений iOS](../products-mobile-apps-ads/ios.md#rekomendacii-po-nastrojke-kampanij-dlya-prilozhenij-ios)
+  - [Настройка и запуск](../products-mobile-apps-ads/ios.md#nastrojka-i-zapusk)
+  - [Статистика](../products-mobile-apps-ads/ios.md#statistika)
+  - [Для издателей приложений](../products-mobile-apps-ads/ios.md#dlya-izdatelej-prilozhenij)
 
 **Объединение кампаний и групп**
 
@@ -23,15 +22,15 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 **Особенности конкуренции продвижения приложений**
 
-Объявления одного заказчика с продвижением мобильного приложения и продвижением сайта конкурируют между собой за показы на мобильных устройствах, но не влияют на ставку. Каждый аукцион индивидуален: система отбирает объявление с наибольшей вероятностью конверсии в целевое действие. Подробнее в разделе [Как работает аукцион в Директе](ru/technologies-and-services/vcg-auction#calc-vcg).
+Объявления одного заказчика с продвижением мобильного приложения и продвижением сайта конкурируют между собой за показы на мобильных устройствах, но не влияют на ставку. Каждый аукцион индивидуален: система отбирает объявление с наибольшей вероятностью конверсии в целевое действие. Подробнее в разделе [Как работает аукцион в Директе](../technologies-and-services/vcg-auction.md#calc-vcg).
 
-Система показывает оптимальный вариант выдачи и учитывает множество других факторов, например, в каком [трафарете](ru/troubleshooting/shows#patterns) будет показано объявление.
+Система показывает оптимальный вариант выдачи и учитывает множество других факторов, например, в каком [трафарете](../troubleshooting/shows.md#patterns) будет показано объявление.
 
 **Обучение стратегии: целевые показатели и бюджет**
 
-Если вы не можете выбрать стратегию и рассчитать стоимость конверсии, запустите стратегию [Максимум кликов](ru/strategies/optimize-clicks-mobile-apps). После получения статистики можно будет перейти на стратегию [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) с оплатой за клики. После обучения стратегии с накоплением достаточного количества конверсий вы можете перевести кампанию на более глубокую [цель](ru/strategies/average-cpa-mobile-apps#conditions) по воронке.
+Если вы не можете выбрать стратегию и рассчитать стоимость конверсии, запустите стратегию [Максимум кликов](../strategies/optimize-clicks-mobile-apps.md). После получения статистики можно будет перейти на стратегию [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) с оплатой за клики. После обучения стратегии с накоплением достаточного количества конверсий вы можете перевести кампанию на более глубокую [цель](../strategies/average-cpa-mobile-apps.md#conditions) по воронке.
 
-Укажите конкурентную среднюю цену установки приложения (CPI) либо среднюю цену конверсии или действия в приложении (CPA). Опирайтесь не только на KPI, но и на рекомендации системы и [прогноз бюджета](ru/impressions/budget-estimation).
+Укажите конкурентную среднюю цену установки приложения (CPI) либо среднюю цену конверсии или действия в приложении (CPA). Опирайтесь не только на KPI, но и на рекомендации системы и [прогноз бюджета](../impressions/budget-estimation.md).
 
 Убедитесь, что ваш бюджет подходит для успешного обучения стратегии:
 
@@ -44,7 +43,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 **Перезапуск обучения**
 
-При [перезапуске](ru/strategies/select-strategy#restart) обучения возможно снижение числа кликов или конверсий на несколько дней — системе нужно время для адаптации к новым настройкам.
+При [перезапуске](../strategies/select-strategy.md#restart) обучения возможно снижение числа кликов или конверсий на несколько дней — системе нужно время для адаптации к новым настройкам.
 
 ## Рекомендации по настройке кампаний для приложений iOS
 
@@ -58,7 +57,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 Для эффективной работы с iOS-трафиком в приложениях должен поддерживаться [Apple SKAdNetwork API](https://developer.apple.com/documentation/storekit/configuring-an-advertised-app).
 
-Для отслеживания установок и продвижения используйте [трекинговые системы](ru/products-mobile-apps-ads/tracking-systems).
+Для отслеживания установок и продвижения используйте [трекинговые системы](../products-mobile-apps-ads/tracking-systems.md).
 
 При использовании трекера AppsFlyer рекомендуем отключать опцию AppsFlyer Advanced Privacy.
 
@@ -70,8 +69,8 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 **Включите опции**
 
-- В [Единой перфоманс-кампании](ru/products-mobile-apps-ads/upc/about) подключите **Использовать SKAdNetwork**.
-- В [Мастере кампаний](ru/products-mobile-apps-ads/create) в разделе **Стратегия** — **Кампания для iOS 14.5 и выше**.
+- В [Единой перфоманс-кампании](../products-mobile-apps-ads/upc/about.md) подключите **Использовать SKAdNetwork**.
+- В [Мастере кампаний](../products-mobile-apps-ads/create.md) в разделе **Стратегия** — **Кампания для iOS 14.5 и выше**.
 
 Так Директ сможет получать данные по установкам SKAdNetwork. Включение опций для передачи конверсий не разделяет показы по версиям операционной системы.
 
@@ -83,9 +82,9 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 В кампании на iOS доступны стратегии:
 
-- [Максимум конверсий](ru/strategies/average-cpa-mobile-apps) без оплаты за установки;
-- [Максимум кликов](ru/strategies/average-cpc);
-- [Максимум кликов с ручными ставками](ru/strategies/manual-strategy-mobile-apps) на поиске.
+- [Максимум конверсий](../strategies/average-cpa-mobile-apps.md) без оплаты за установки;
+- [Максимум кликов](../strategies/average-cpc.md);
+- [Максимум кликов с ручными ставками](../strategies/manual-strategy-mobile-apps.md) на поиске.
 
 Кампании со SKAdNetwork используют для обучения конверсии пользователей, которые дали [согласие](https://developer.apple.com/app-store/user-privacy-and-data-use/#permission-to-track) на сбор и передачу данных рекламной системе.
 
@@ -97,90 +96,9 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/ios
 
 ### Статистика
 
-Статистика по кампаниям будет доступна в [Мастере отчетов](ru/products-mobile-apps-ads/statistics). В нем будут цели:
+Статистика по кампаниям будет доступна в [Мастере отчетов](../products-mobile-apps-ads/statistics.md). В нем будут цели:
 
 - **Установки приложения** — установки, засчитанные мобильным трекером. Доступны по всем срезам данных.
 - **Установки приложения (SKAdNetwork)** — установки, засчитанные SKAdNetwork. Доступны только в разбивке по кампаниям — срезы по характеристикам пользователей недоступны. Агрегированные данные приходят в Директ в течение 48 часов.
 
 ### Для издателей приложений
-
-Если вы — издатель приложений, в которых размещаются объявления, ознакомьтесь с разделом [Поддержка SKAdNetwork](https://yandex.ru/dev/mobile-ads/doc/ios/quick-start/support-ios-14.html) в Yandex Mobile Ads SDK.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Рекомендации и требования к объявлениям](ru/products-mobile-apps-ads/recommendations)
-
-Следующая
-
-[Установки из альтернативных магазинов приложений](ru/products-mobile-apps-ads/alternative-store)

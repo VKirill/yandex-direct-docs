@@ -2,15 +2,14 @@
 source: https://yandex.ru/support/direct/ru/technologies-and-services/ad-labelingl
 ---
 
-Маркировка рекламы
 
 # Маркировка рекламы
 
-- [ОРД Яндекс](ru/technologies-and-services/ad-labelingl#ord)
-- [Описание объекта рекламы](ru/technologies-and-services/ad-labelingl#description)
-- [Коммерческая тайна Яндекса](ru/technologies-and-services/ad-labelingl#secret)
-- [Вопросы и ответы](ru/technologies-and-services/ad-labelingl#qa)
-- [Узнайте больше](ru/technologies-and-services/ad-labelingl#uznajte-bolshe)
+- [ОРД Яндекс](../technologies-and-services/ad-labelingl.md#ord)
+- [Описание объекта рекламы](../technologies-and-services/ad-labelingl.md#description)
+- [Коммерческая тайна Яндекса](../technologies-and-services/ad-labelingl.md#secret)
+- [Вопросы и ответы](../technologies-and-services/ad-labelingl.md#qa)
+- [Узнайте больше](../technologies-and-services/ad-labelingl.md#uznajte-bolshe)
 
 С 1 сентября 2022 вся онлайн-реклама, показывающаяся на территории России, размечается особым образом. Разметка, или маркировка, рекламы включает 4 основных действия:
 
@@ -174,7 +173,7 @@ source: https://yandex.ru/support/direct/ru/technologies-and-services/ad-labelin
 
 В кампаниях, где объявления создаются автоматически на базе фида или сайта (товарные объявления и объявления для страниц каталога в Единой перфоманс-кампании, Товарные кампании) автоматическое описание изменить невозможно.
 
-О том, какие еще данные необходимо передавать в ЕРИР и сроках передачи читайте в разделе [Вопросы и ответы](ru/technologies-and-services/ad-labelingl#qa).
+О том, какие еще данные необходимо передавать в ЕРИР и сроках передачи читайте в разделе [Вопросы и ответы](../technologies-and-services/ad-labelingl.md#qa).
 
 ## Коммерческая тайна Яндекса
 
@@ -201,11 +200,11 @@ source: https://yandex.ru/support/direct/ru/technologies-and-services/ad-labelin
 
 Какие данные нужны, чтобы получить токен на рекламное объявление в Директе?
 
-Для регистрации креатива в ОРД нужно предоставить основные сведения о конечном рекламодателе в [соответствующем разделе настроек](ru/technologies-and-services/ad-labelingl#ord).
+Для регистрации креатива в ОРД нужно предоставить основные сведения о конечном рекламодателе в [соответствующем разделе настроек](../technologies-and-services/ad-labelingl.md#ord).
 
 Куда нужно вносить данные в Яндекс Директе?
 
-В личном кабинете Директа нужно указывать [данные о рекламодателе](ru/technologies-and-services/ad-labelingl#ord), а в [кабинете ОРД](https://yandex.ru/support2/ord/ru/) — заполнять отчетную информацию, если это требуется при вашей модели размещения рекламы.
+В личном кабинете Директа нужно указывать [данные о рекламодателе](../technologies-and-services/ad-labelingl.md#ord), а в [кабинете ОРД](https://yandex.ru/support2/ord/ru/) — заполнять отчетную информацию, если это требуется при вашей модели размещения рекламы.
 
 Какие данные можно подавать по API Директа?
 
@@ -238,86 +237,3 @@ source: https://yandex.ru/support/direct/ru/technologies-and-services/ad-labelin
 Будет ли работать ссылка, если в ней зашит внешний счетчик (AdRiver, Weborama и т. п.), а вы добавите в нее еще и токен?
 
 Реклама, которая размещается с помощью Директа, будет работать с внешними счетчиками без изменений.
-
-## Узнайте больше
-
-- [Подробнее про маркировку на сайте рекламы](https://yandex.ru/adv/ad-labeling?menu=open)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Предупреждения и возрастные ограничения в объявлениях](ru/moderation/age-alerts)
-
-Следующая
-
-[Технические ограничения](ru/moderation/technical-restrictions)

@@ -2,19 +2,18 @@
 source: https://yandex.ru/support/direct/ru/new-interface/guide
 ---
 
-Гид по интерфейсу
 
 # Гид по интерфейсу
 
-- [Основные элементы](ru/new-interface/guide#basic-elements)
-- [Навигация](ru/new-interface/guide#navigation)
-- [Действия с кампаниями](ru/new-interface/guide#actions)
-- [Просмотр статистики](ru/new-interface/guide#statistics)
-- [Оплата и настройка общего счета](ru/new-interface/guide#payment)
-- [Подбор фраз](ru/new-interface/guide#add-keywords)
-- [Поиск и замена](ru/new-interface/guide#find-replace)
-- [Назначение ставок](ru/new-interface/guide#bid-wizard)
-- [Рекомендации](ru/new-interface/guide#recommendations)
+- [Основные элементы](../new-interface/guide.md#basic-elements)
+- [Навигация](../new-interface/guide.md#navigation)
+- [Действия с кампаниями](../new-interface/guide.md#actions)
+- [Просмотр статистики](../new-interface/guide.md#statistics)
+- [Оплата и настройка общего счета](../new-interface/guide.md#payment)
+- [Подбор фраз](../new-interface/guide.md#add-keywords)
+- [Поиск и замена](../new-interface/guide.md#find-replace)
+- [Назначение ставок](../new-interface/guide.md#bid-wizard)
+- [Рекомендации](../new-interface/guide.md#recommendations)
 
 На странице кампаний вы можете изучить статистику, принять решения на основе данных и сразу внести изменения.
 
@@ -118,7 +117,7 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Отметьте нужные кампании и нажмите кнопку **Статистика  кампаний**.
 
-Подробнее о [Мастере отчетов](ru/statistics/report-wizard).
+Подробнее о [Мастере отчетов](../statistics/report-wizard.md).
 
 ## Оплата и настройка общего счета
 
@@ -126,19 +125,19 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Под логином нажмите **Пополнить**. В открывшемся окне укажите сумму оплаты, выберите подходящий способ и нажмите **Пополнить счет**.
 
-Подробнее о [способах оплаты](ru/payments/payment-methods).
+Подробнее о [способах оплаты](../payments/payment-methods.md).
 
 ##### **Как перейти к настройкам общего счета**
 
 Под логином нажмите на сумму. В открывшемся окне нажмите **Все настройки**.
 
-Подробнее об [общем счете](ru/payments/shared-account).
+Подробнее об [общем счете](../payments/shared-account.md).
 
 ##### **Как просмотреть и изменить средний дневной бюджет**
 
 Под логином нажмите на сумму. В открывшемся окне в блоке **Средний дневной бюджет** указана сумма текущего ограничения. Чтобы ее скорректировать, нажмите **Средний дневной бюджет** и укажите ежедневный расход на продвижение в среднем за календарную неделю.
 
-Подробнее о [среднем дневном бюджете](ru/payments/shared-account#day-budget).
+Подробнее о [среднем дневном бюджете](../payments/shared-account.md#day-budget).
 
 ## Подбор фраз
 
@@ -146,7 +145,7 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Чтобы подобрать ключевые фразы в меню слева нажмите **Добавить** → **Ключевые фразы**, выберите кампанию и группу.
 
-Подробнее о [подборе фраз](ru/new-interface/add-keywords).
+Подробнее о [подборе фраз](../new-interface/add-keywords.md).
 
 ## Поиск и замена
 
@@ -154,7 +153,7 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Чтобы выполнить замену, на вкладке **Ставки и фразы** выберите нужные ключевые фразы и нажмите кнопку **Поиск и замена** или **Действия** → **Поиск и замена**.
 
-Подробнее о [поиске и замене](ru/new-interface/find-replace).
+Подробнее о [поиске и замене](../new-interface/find-replace.md).
 
 ## Назначение ставок
 
@@ -171,7 +170,7 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Выберите нужные кампании и группы объявлений. На вкладке **Ставки и фразы** выберите фразы и нажмите кнопку **Мастер ставок**.
 
-Подробнее о [назначении ставок](ru/new-interface/bid-wizard).
+Подробнее о [назначении ставок](../new-interface/bid-wizard.md).
 
 ## Рекомендации
 
@@ -179,84 +178,4 @@ source: https://yandex.ru/support/direct/ru/new-interface/guide
 
 Чтобы посмотреть, что советует Директ, в меню слева нажмите **Рекомендации**.
 
-Подробнее о [рекомендациях](ru/new-interface/recommendations).
-
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Как оплатить размещение клиента](ru/agencies/payment)
-
-Следующая
-
-[Как создать аккаунт](ru/quick-start/create-campaign)
+Подробнее о [рекомендациях](../new-interface/recommendations.md).

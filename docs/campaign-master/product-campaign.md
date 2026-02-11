@@ -2,16 +2,15 @@
 source: https://yandex.ru/support/direct/ru/campaign-master/product-campaign
 ---
 
-Товарная кампания
 
 # Товарная кампания
 
-- [Какие задачи решает](ru/campaign-master/product-campaign#kakie-zadachi-reshaet)
-- [Преимущества](ru/campaign-master/product-campaign#preimushestva)
-- [Форматы](ru/campaign-master/product-campaign#formaty)
-- [Рекомендации по запуску кампании](ru/campaign-master/product-campaign#rekomendacii-po-zapusku-kampanii)
-- [Вопросы и ответы](ru/campaign-master/product-campaign#q-a)
-- [Кейсы и полезные материалы](ru/campaign-master/product-campaign#kejsy-i-poleznye-materialy)
+- [Какие задачи решает](../campaign-master/product-campaign.md#kakie-zadachi-reshaet)
+- [Преимущества](../campaign-master/product-campaign.md#preimushestva)
+- [Форматы](../campaign-master/product-campaign.md#formaty)
+- [Рекомендации по запуску кампании](../campaign-master/product-campaign.md#rekomendacii-po-zapusku-kampanii)
+- [Вопросы и ответы](../campaign-master/product-campaign.md#q-a)
+- [Кейсы и полезные материалы](../campaign-master/product-campaign.md#kejsy-i-poleznye-materialy)
 
 Товарная кампания — инструмент для быстрого запуска продвижения большого ассортимента интернет-магазина. Директ создаст объявления для товаров, страниц каталога и магазина и покажет их в поиске и на площадках РСЯ заинтересованным пользователям.
 
@@ -74,89 +73,9 @@ source: https://yandex.ru/support/direct/ru/campaign-master/product-campaign
 
 Кроме того, посмотреть статистику можно в разбивке по регионам. Это позволит понять, покупатели из каких областей или городов совершают больше всего заказов в вашем интернет-магазине после перехода с объявлений. Опираясь на эти данные, можно, например, увеличить инвестиции в маркетинг в самых прибыльных регионах.
 
-Больше данных об эффективности размещения вы найдете в [Мастере отчетов](ru/statistics/report-wizard).
+Больше данных об эффективности размещения вы найдете в [Мастере отчетов](../statistics/report-wizard.md).
 
 ## Кейсы и полезные материалы
 
 - [Как сеть магазинов стройматериалов увеличила продажи благодаря комбинации медийной рекламы и Товарной кампании](https://yandex.ru/adv/solutions/cases/vimos-medijnaya-reklama-i-tovarnaya-kampaniya)
 - [Как спортивный магазин вдвое увеличил доход от рекламы с помощью Товарной кампании](https://yandex.ru/adv/solutions/cases/sportivnyj-magazin-vdvoe-uvelichil-dohod-ot-reklamy)
-- [Заказов больше, а цена за действие меньше: как Товарная кампания продвигает предложения бизнесов из сферы услуг](https://yandex.ru/adv/solutions/cases/tovarnaya-kampaniya-prodvigaet-predlozheniya-biznesov-iz-sfery-uslug)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Конверсии и трафик](ru/campaign-master/site)
-
-Следующая
-
-[Продажи на маркетплейсах](ru/campaign-master/sales-on-marketplaces)

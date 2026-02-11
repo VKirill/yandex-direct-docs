@@ -2,13 +2,13 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-services
 ---
 
-- [Баннер на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services#ya-banner)
-- [Яндекс Погода](ru/fixed-cpm-campaigns/product-yandex-services#weather)
-- [Фантех](ru/fixed-cpm-campaigns/product-yandex-services#media)
-- [ТВ-билборд](ru/fixed-cpm-campaigns/product-yandex-services#tv)
-- [Авто.ру](ru/fixed-cpm-campaigns/product-yandex-services#auto)
-- [Яндекс Расписания](ru/fixed-cpm-campaigns/product-yandex-services#yandeks-raspisaniya)
-- [Яндекс Услуги](ru/fixed-cpm-campaigns/product-yandex-services#yandeks-uslugi)
+- [Баннер на сервисах Яндекса](../fixed-cpm-campaigns/product-yandex-services.md#ya-banner)
+- [Яндекс Погода](../fixed-cpm-campaigns/product-yandex-services.md#weather)
+- [Фантех](../fixed-cpm-campaigns/product-yandex-services.md#media)
+- [ТВ-билборд](../fixed-cpm-campaigns/product-yandex-services.md#tv)
+- [Авто.ру](../fixed-cpm-campaigns/product-yandex-services.md#auto)
+- [Яндекс Расписания](../fixed-cpm-campaigns/product-yandex-services.md#yandeks-raspisaniya)
+- [Яндекс Услуги](../fixed-cpm-campaigns/product-yandex-services.md#yandeks-uslugi)
 
 # Медийная реклама на сервисах Яндекса
 
@@ -24,18 +24,18 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 |  |  |  |
 | --- | --- | --- |
-| [Социально-демографический таргетинг](ru/products-cpm-campaign/display-ads-settings#demography)  Позволяет выбрать пользователей по категориям: «пол», «пол и возраст» | [Геотаргетинг на регионы России](ru/efficiency/geotargeting)  Возможность настройки геотаргетинга на субъекты и города Российской Федерации | [Таргетинг по интересам](ru/products-cpm-campaign/display-ads-settings#user-interests)  Позволяет выделить аудиторию с определенным образом жизни: например, киноходов и любителей домашнего кино |
-| [Сегменты из Яндекс Аудиторий](ru/products-cpm-campaign/display-ads-settings#metrica-and-audience)  Таргетинг на пользователей из клиентской базы рекламодателя. С возможностью расширить охват сегментами похожей аудитории | [Цели и сегменты Яндекс Метрики](ru/products-cpm-campaign/display-ads-settings#metrica-and-audience)  Показы по группам пользователей, которые уже посещали сайт рекламодателя или совершали на нем определенные действия |  |
+| [Социально-демографический таргетинг](../products-cpm-campaign/display-ads-settings.md#demography)  Позволяет выбрать пользователей по категориям: «пол», «пол и возраст» | [Геотаргетинг на регионы России](../efficiency/geotargeting.md)  Возможность настройки геотаргетинга на субъекты и города Российской Федерации | [Таргетинг по интересам](../products-cpm-campaign/display-ads-settings.md#user-interests)  Позволяет выделить аудиторию с определенным образом жизни: например, киноходов и любителей домашнего кино |
+| [Сегменты из Яндекс Аудиторий](../products-cpm-campaign/display-ads-settings.md#metrica-and-audience)  Таргетинг на пользователей из клиентской базы рекламодателя. С возможностью расширить охват сегментами похожей аудитории | [Цели и сегменты Яндекс Метрики](../products-cpm-campaign/display-ads-settings.md#metrica-and-audience)  Показы по группам пользователей, которые уже посещали сайт рекламодателя или совершали на нем определенные действия |  |
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services/requirements-ya).
+См. в разделе [Требования к баннерам на сервисах Яндекса](../fixed-cpm-campaigns/product-yandex-services/requirements-ya.md).
 
 ## Яндекс Погода
 
 [Яндекс Погода](https://yandex.ru/pogoda/) — сервис, которым ежемесячно пользуются миллионы людей, чтобы узнать прогноз, посмотреть карту осадков и в итоге спланировать отдых, досуг и деловые мероприятия.
 
-Для баннера на Яндекс Погоде доступен таргетинг по погодным условиям и регионам России. Чтобы воспользоваться этими настройками, обратитесь к своему персональному менеджеру или в [отдел клиентского сервиса](ru/troubleshooting/other). Доступны настройки по температуре, облачности, интенсивности осадков. Подробнее о [корректировках по погоде](ru/products-cpm-campaign/bids-adjustment#weather).
+Для баннера на Яндекс Погоде доступен таргетинг по погодным условиям и регионам России. Чтобы воспользоваться этими настройками, обратитесь к своему персональному менеджеру или в [отдел клиентского сервиса](../troubleshooting/other.md). Доступны настройки по температуре, облачности, интенсивности осадков. Подробнее о [корректировках по погоде](../products-cpm-campaign/bids-adjustment.md#weather).
 
 #### Формат рекламных материалов
 
@@ -51,7 +51,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам на Яндекс Погоде](ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather).
+См. в разделе [Требования к баннерам на Яндекс Погоде](../fixed-cpm-campaigns/product-yandex-services/requirements-weather.md).
 
 ## Фантех
 
@@ -79,7 +79,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам Фантеха](ru/fixed-cpm-campaigns/product-yandex-services/requirements-mediaservices).
+См. в разделе [Требования к баннерам Фантеха](../fixed-cpm-campaigns/product-yandex-services/requirements-mediaservices.md).
 
 Подробнее о размещении рекламы в Фантех на [Портале Рекламы](https://yandex.ru/adv/products/display/mediaproducts).
 
@@ -99,7 +99,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к ТВ-билборду](ru/fixed-cpm-campaigns/product-yandex-services/requirements-tv).
+См. в разделе [Требования к ТВ-билборду](../fixed-cpm-campaigns/product-yandex-services/requirements-tv.md).
 
 ## Авто.ру
 
@@ -115,7 +115,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам на Авто.ру](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru).
+См. в разделе [Требования к баннерам на Авто.ру](../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md).
 
 Подробнее о размещении рекламы в Авто.ру на [Портале Рекламы](https://yandex.ru/adv/products/display/autoru).
 
@@ -129,7 +129,7 @@ R1Сниппет (охват)Top MobileGrand Mobile
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам на Яндекс Расписаниях](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules).
+См. в разделе [Требования к баннерам на Яндекс Расписаниях](../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md).
 
 Подробнее о размещении рекламы в Яндекс Расписаниях на [Портале Рекламы](https://yandex.ru/adv/products/display/rasp).
 
@@ -143,85 +143,4 @@ R1Сниппет (охват)Top MobileGrand Mobile
 
 #### Требования к рекламным материалам
 
-См. в разделе [Требования к баннерам на Яндекс Услугах](ru/fixed-cpm-campaigns/product-yandex-services/requirements-services).
-
-Подробнее о размещении рекламы в Яндекс Услугах на [Портале Рекламы](https://yandex.ru/adv/products/display/services).
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Как оценить результат](ru/fixed-cpm-campaigns/branding-cover/statistics)
-
-Следующая
-
-[Как запустить кампанию](ru/fixed-cpm-campaigns/product-yandex-services/create)
+См. в разделе [Требования к баннерам на Яндекс Услугах](../fixed-cpm-campaigns/product-yandex-services/requirements-services.md).

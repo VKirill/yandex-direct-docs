@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/payments/min-payment
 ---
 
-Минимальная сумма платежа
 
 # Минимальная сумма платежа
 

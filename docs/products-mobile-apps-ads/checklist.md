@@ -2,17 +2,16 @@
 source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 ---
 
-Чек-лист по настройке кампаний
 
 # Чек-лист по настройке кампаний
 
-- [Структура аккаунта для продвижения приложений](ru/products-mobile-apps-ads/checklist#struktura-akkaunta-dlya-prodvizheniya-prilozhenij)
-- [Настройки кампании](ru/products-mobile-apps-ads/checklist#nastrojki-kampanii)
-- [Настройки группы](ru/products-mobile-apps-ads/checklist#nastrojki-gruppy)
-- [Настройки объявления](ru/products-mobile-apps-ads/checklist#nastrojki-obuyavleniya)
-- [Настройки трекера для продвижения приложений](ru/products-mobile-apps-ads/checklist#nastrojki-trekera-dlya-prodvizheniya-prilozhenij)
-- [Настройки трекера для ретаргетинга в продвижении приложений](ru/products-mobile-apps-ads/checklist#nastrojki-trekera-dlya-retargetinga-v-prodvizhenii-prilozhenij)
-- [Анализ эффективности продвижения приложений](ru/products-mobile-apps-ads/checklist#analiz-effektivnosti-prodvizheniya-prilozhenij)
+- [Структура аккаунта для продвижения приложений](../products-mobile-apps-ads/checklist.md#struktura-akkaunta-dlya-prodvizheniya-prilozhenij)
+- [Настройки кампании](../products-mobile-apps-ads/checklist.md#nastrojki-kampanii)
+- [Настройки группы](../products-mobile-apps-ads/checklist.md#nastrojki-gruppy)
+- [Настройки объявления](../products-mobile-apps-ads/checklist.md#nastrojki-obuyavleniya)
+- [Настройки трекера для продвижения приложений](../products-mobile-apps-ads/checklist.md#nastrojki-trekera-dlya-prodvizheniya-prilozhenij)
+- [Настройки трекера для ретаргетинга в продвижении приложений](../products-mobile-apps-ads/checklist.md#nastrojki-trekera-dlya-retargetinga-v-prodvizhenii-prilozhenij)
+- [Анализ эффективности продвижения приложений](../products-mobile-apps-ads/checklist.md#analiz-effektivnosti-prodvizheniya-prilozhenij)
 
 После создания кампаний в ЕПК или Мастере, проверьте их настройки по чек-листу. Он содержит рекомендации специалистов Директа.
 
@@ -22,7 +21,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 Подробнее
 
-Объявления одного заказчика с продвижением приложения и продвижением сайта конкурируют между собой за показы на устройствах. Аукцион уникален для каждого пользователя — для показа отбирается объявление с наиболее вероятной конверсией в целевое действие, выбранное в стратегии. Подробнее о [работе аукциона](ru/technologies-and-services/vcg-auction#calc-vcg).
+Объявления одного заказчика с продвижением приложения и продвижением сайта конкурируют между собой за показы на устройствах. Аукцион уникален для каждого пользователя — для показа отбирается объявление с наиболее вероятной конверсией в целевое действие, выбранное в стратегии. Подробнее о [работе аукциона](../technologies-and-services/vcg-auction.md#calc-vcg).
 
 Нет кампаний, которые дублируют таргетинги и регионы показа друг друга.
 
@@ -40,7 +39,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 Структура аккаунта обычно зависит от ниши бизнеса и целей продвижения. Мы рекомендуем разделять кампании в зависимости от цели продвижения: работа с новой аудиторией или с клиентами приложения. Так вы сможете точнее управлять настройками для достижения рекламных KPI. От выбранного сценария зависит выбор мест показа, целевых событий, видов таргетинга и настройки объявления.
 
-Для запуска продвижения используйте Единую перфоманс-кампанию. Выберите [цель](ru/products-mobile-apps-ads/upc/create-campaign). Доступные настройки для каждого сценария отобразятся автоматически.
+Для запуска продвижения используйте Единую перфоманс-кампанию. Выберите [цель](../products-mobile-apps-ads/upc/create-campaign.md). Доступные настройки для каждого сценария отобразятся автоматически.
 
 Запущены основные сценарии кампаний:
 
@@ -54,7 +53,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 Подробнее
 
-Подробнее о [влиянии выбранной цели](ru/products-mobile-apps-ads/upc/create-campaign). Определить, какая цель подойдет для решения ваших бизнес-задач, поможет статья [Привлечение новых пользователей или ретаргетинг: как выбрать сценарий для продвижения мобильных приложений в Единой перфоманс-кампании](https://yandex.ru/adv/edu/materials/novye-polzovateli-ili-retargeting-scenarij-dlya-reklamy-prilozhenij-v-epk) на [Портале Рекламы](https://yandex.ru/adv/edu/materials/tag-apps-articles).
+Подробнее о [влиянии выбранной цели](../products-mobile-apps-ads/upc/create-campaign.md). Определить, какая цель подойдет для решения ваших бизнес-задач, поможет статья [Привлечение новых пользователей или ретаргетинг: как выбрать сценарий для продвижения мобильных приложений в Единой перфоманс-кампании](https://yandex.ru/adv/edu/materials/novye-polzovateli-ili-retargeting-scenarij-dlya-reklamy-prilozhenij-v-epk) на [Портале Рекламы](https://yandex.ru/adv/edu/materials/tag-apps-articles).
 
 Выбранная стратегия соответствует целям кампании.
 
@@ -123,7 +122,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 Технология *SKAdNetwork* от Apple позволяет атрибутировать установки приложения конкретным кампаниям (при этом конфиденциальность пользователей сохраняется). Если в кампаниях эта опция включена, вы получите больше информации о конверсиях в статистике и точнее оцените эффективность продвижения.
 
-Подробнее о [работе SkadNetwork и рекомендациях для iOS](ru/products-mobile-apps-ads/ios).
+Подробнее о [работе SkadNetwork и рекомендациях для iOS](../products-mobile-apps-ads/ios.md).
 
 Расписание показов установлено по умолчанию **Каждый день, круглосуточно** или на основе анализа статистики кампании *(только в ЕПК)*.
 
@@ -149,7 +148,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 Подробнее
 
-Чтобы не ограничивать показы, не используйте избыточные минус-фразы для РСЯ. Подробнее см. в разделе [Минус-слова и минус-фразы при показе в сетях](ru/keywords/negative-keywords#минус-слова-и-минус-фразы-при-показе-в-сетях-yan).
+Чтобы не ограничивать показы, не используйте избыточные минус-фразы для РСЯ. Подробнее см. в разделе [Минус-слова и минус-фразы при показе в сетях](../keywords/negative-keywords.md#минус-слова-и-минус-фразы-при-показе-в-сетях-yan).
 
 Площадки добавлены в запрет показов на основе статистических данных об эффективности *(только в ЕПК)*.
 
@@ -184,13 +183,13 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/checklist
 
 1. Определите сегменты целевой аудитории, которые планируете использовать в продвижении.
 2. Соберите релевантные условия показа для каждого сегмента: ключевые фразы, категории автотаргетинга, условия подбора аудитории или ретаргетинг. В категории автотаргетинга лучше начать работу с целевых запросов.
-3. Пропишите уникальные объявления для каждого сегмента целевой аудитории. Чтобы исключить пересечения в показах, лучше не дублировать одинаковые объявления в разных группах. Если не получается составить уникальное объявление для конкретного сегмента, объедините таргетинги в рамках одной группы. Детальную статистику можно посмотреть в [Мастере отчетов](ru/products-mobile-apps-ads/create).
+3. Пропишите уникальные объявления для каждого сегмента целевой аудитории. Чтобы исключить пересечения в показах, лучше не дублировать одинаковые объявления в разных группах. Если не получается составить уникальное объявление для конкретного сегмента, объедините таргетинги в рамках одной группы. Детальную статистику можно посмотреть в [Мастере отчетов](../products-mobile-apps-ads/create.md).
 
 **Таргетинги**
 
 Протестированы все доступные виды таргетингов.
 
-Подробнее о добавлении и взаимодействии таргетингов см. в разделах [Шаг 2. Создание группы](ru/products-mobile-apps-ads/upc/create-group) *(для ЕПК)* и [Создание объявлений в Мастере кампаний](ru/products-mobile-apps-ads/create).
+Подробнее о добавлении и взаимодействии таргетингов см. в разделах [Шаг 2. Создание группы](../products-mobile-apps-ads/upc/create-group.md) *(для ЕПК)* и [Создание объявлений в Мастере кампаний](../products-mobile-apps-ads/create.md).
 
 **Интересы и привычки**
 
@@ -272,7 +271,7 @@ Look-alike аудитории.
 
 **Комбинаторные объявления**:
 
-[Примеры отображения и технические требования](ru/products-mobile-apps-ads/about#type)
+[Примеры отображения и технические требования](../products-mobile-apps-ads/about.md#type)
 
 Четко прописан объект продвижения.
 
@@ -284,7 +283,7 @@ Look-alike аудитории.
 
 **Playable ads и графические объявления *(только в ЕПК)***:
 
-[Примеры отображения и технические требования](ru/products-mobile-apps-ads/about#type)
+[Примеры отображения и технические требования](../products-mobile-apps-ads/about.md#type)
 
 **Товарные объявления *(только в ЕПК)***.
 
@@ -304,7 +303,7 @@ Look-alike аудитории.
 
 Подробнее
 
-[Инструкции по настройке интеграции с трекинговыми системами](ru/products-mobile-apps-ads/tracking-systems).
+[Инструкции по настройке интеграции с трекинговыми системами](../products-mobile-apps-ads/tracking-systems.md).
 
 Указан App ID мобильного приложения.
 
@@ -346,7 +345,7 @@ Look-alike аудитории.
 | --- | --- |
 | Создана отдельная трекинговая ссылка с настройками:   - **Период неактивности (Inactivity period)** — 0 дней; - **Окно реатрибуции (Reattribution window)** — 14 дней. | Создана отдельная трекинговая ссылка с настройками:  - **Период неактивности (Inactivity period)** — 0 дней; - **Окно реатрибуции (Reattribution window)** — 14 дней.  Диплинк добавлен в параметр `deep_link` трекинг-ссылки, которая используется в Директе. |
 
-Подробнее см. в разделах [Ретаргетинг и подбор аудитории](ru/products-mobile-apps-ads/retargeting-mobile-apps) и [Настройка ссылки в трекинговой системе](ru/products-mobile-apps-ads/tracking-systems).
+Подробнее см. в разделах [Ретаргетинг и подбор аудитории](../products-mobile-apps-ads/retargeting-mobile-apps.md) и [Настройка ссылки в трекинговой системе](../products-mobile-apps-ads/tracking-systems.md).
 
 ## Анализ эффективности продвижения приложений
 
@@ -370,11 +369,3 @@ Look-alike аудитории.
 
 
 SKAdNetwork-конверсии доступны только в разбивке по кампаниям.
-
-Предыдущая
-
-[Установки из альтернативных магазинов приложений](ru/products-mobile-apps-ads/alternative-store)
-
-Следующая
-
-[Продвижение на Connected TV и десктопах](ru/products-mobile-apps-ads/cross-platform/about)

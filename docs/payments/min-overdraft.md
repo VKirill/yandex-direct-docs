@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/payments/min-overdraft
 ---
 
-Минимальный ежемесячный расход для отсрочки платежа
 
 # Минимальный ежемесячный расход для отсрочки платежа
 

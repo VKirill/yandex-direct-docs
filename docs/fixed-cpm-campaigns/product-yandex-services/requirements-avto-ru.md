@@ -2,31 +2,30 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru
 ---
 
-Требования к баннерам на Авто.ру
 
 # Требования к баннерам на Авто.ру
 
-- [Общие требования](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#general-requirements)
-- [Дополнительные требования](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#additional-requirements)
+- [Общие требования](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#general-requirements)
+- [Дополнительные требования](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#additional-requirements)
 
 ## Общие требования
 
 Для размещения медийной рекламы предоставьте файлы HTML5. Для рекламных мест фиксированного размера можно использовать файлы GIF, JPEG, PNG. Все файлы, относящиеся к одной единице рекламы, должны иметь одно и то же имя.
 
-Рекламные материалы в формате HTML5 должны соответствовать [требованиям к HTML-баннерам](ru/products-cpm-campaign/requirements).
+Рекламные материалы в формате HTML5 должны соответствовать [требованиям к HTML-баннерам](../../products-cpm-campaign/requirements.md).
 
 Баннер не должен мимикрировать под оформление площадки (нельзя использовать фирменные цвета, элементы интерфейса. Креатив не должен сливаться с фоном сайта).
 
 |  |  |
 | --- | --- |
 | **Название баннера** | **Размер баннера в пикселях** |
-| [Супербаннер, двойной сниппет](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#super) | 100% × 250 |
-| [Баннер-брендирование](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#branding) | 100% × 250, 100% × 180 |
-| [Небоскреб / R1](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#skyscraper) | 300 × 900 (300 × 600, 300 × 240) |
-| [Сниппет (охват)](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#snippet) | 100% × 150 |
-| [Snippet Mobile](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#snippet-mobile) | 100% × 150 |
-| [Видео-баннер](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#video-banner) | — |
-| [Бесконечная Лента](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru#endless-scroller) | 335 × 228 |
+| [Супербаннер, двойной сниппет](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#super) | 100% × 250 |
+| [Баннер-брендирование](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#branding) | 100% × 250, 100% × 180 |
+| [Небоскреб / R1](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#skyscraper) | 300 × 900 (300 × 600, 300 × 240) |
+| [Сниппет (охват)](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#snippet) | 100% × 150 |
+| [Snippet Mobile](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#snippet-mobile) | 100% × 150 |
+| [Видео-баннер](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#video-banner) | — |
+| [Бесконечная Лента](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md#endless-scroller) | 335 × 228 |
 |  |  |
 
 Примечание
@@ -58,7 +57,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта, а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Супербаннера или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Авто.ру.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Брендирование (100% × 520, 100% × 180)
 
@@ -80,7 +79,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта, а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Брендирования или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Авто.ру.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 **Мобильная версия (100% × 180)**
 
@@ -98,7 +97,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта, а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Брендирования или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Авто.ру.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Небоскреб (240 × 400, 300 × 600, 300 × 900)
 
@@ -106,7 +105,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 2. Максимальный вес архива: 512 КБ.
 3. Максимальный вес файла `index.html`: 150 КБ.
 4. Размеры «Небоскреб»: 240 × 400 пикселей, 300 × 600 пикселей, 300 × 900 пикселей.
-5. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+5. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Сниппет (охват) (100% × 150)
 
@@ -123,7 +122,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 8. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта, а также баннеры, заполненные текстом или изображениями низкого качества.
 9. Рамка по периметру баннера не допускается. Исключение: если фон Сниппета или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Авто.ру.
-10. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+10. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Snippet Mobile (100% × 150)
 
@@ -141,12 +140,12 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
    ```
 9. Не принимаются баннеры с мигающими крупными графическими или текстовыми элементами и/или фоном, с резкими перемещениями элементов, существенно отвлекающие пользователя от взаимодействия со страницей сайта, а также баннеры, заполненные текстом или изображениями низкого качества.
 10. Рамка по периметру баннера не допускается. Исключение: если фон Сниппета или его нижняя часть белого цвета (`RGB #ffffff`), добавьте серую линию (`RGB #f3f3f3`) толщиной 1 пиксель по нижней грани баннера, чтобы рекламные материалы не сливались с фоном сервиса Авто.ру.
-11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](ru/products-cpm-campaign/requirements).
+11. Требования к оформлению баннера см. в разделе [Требования к HTML5-баннерам](../../products-cpm-campaign/requirements.md).
 
 #### Видео-баннер
 
-1. [Технические требования к видео](ru/fixed-cpm-campaigns/products-video/requirements).
-2. [Требования к видеокреативам](ru/moderation/ad-rules#video).
+1. [Технические требования к видео](../../fixed-cpm-campaigns/products-video/requirements.md).
+2. [Требования к видеокреативам](../../moderation/ad-rules.md#video).
 3. Рекомендуемое соотношение сторон: 16 : 9.
 
 #### Бесконечная Лента
@@ -157,83 +156,3 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 4. Заголовок: 56 символов максимум. Обязательный.
 5. Текст метки реклама: 12 символов максимум. Обязательный.
 6. Текст домена рекламодателя: 22 символов максимум. Обязательный.
-7. Дисклеймер: 83 символов максимум. Необязательный элемент.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Требования к ТВ-билборду](ru/fixed-cpm-campaigns/product-yandex-services/requirements-tv)
-
-Следующая
-
-[Требования к баннерам на Яндекс Расписаниях](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules)

@@ -2,14 +2,13 @@
 source: https://yandex.ru/support/direct/ru/strategies/select-strategy
 ---
 
-Стратегии показов
 
 # Стратегии показов
 
-- [Как работают стратегии](ru/strategies/select-strategy#how-it-works)
-- [Как эффективно использовать стратегии](ru/strategies/select-strategy#how-to-use)
-- [Адаптация стратегии к сезонному спросу](ru/strategies/select-strategy#adaptation)
-- [Перезапуск стратегии](ru/strategies/select-strategy#restart)
+- [Как работают стратегии](../strategies/select-strategy.md#how-it-works)
+- [Как эффективно использовать стратегии](../strategies/select-strategy.md#how-to-use)
+- [Адаптация стратегии к сезонному спросу](../strategies/select-strategy.md#adaptation)
+- [Перезапуск стратегии](../strategies/select-strategy.md#restart)
 
 Стратегия — это набор настроек, которые позволяют решить задачу кампании, например привлечь трафик на сайт, получить максимум полезных действий, оптимизировать рентабельность или увеличить прибыль от продвижения.
 
@@ -27,9 +26,9 @@ source: https://yandex.ru/support/direct/ru/strategies/select-strategy
 |  |  |
 | --- | --- |
 | **Тип кампании** | **Доступные стратегии** |
-| «Единая перфоманс-кампания» | [Максимум конверсий](ru/strategies/average-cpa)  [Максимум кликов](ru/strategies/average-cpc)  [Максимум кликов с ручными ставками](ru/strategies/manual-strategy)  [Максимум прибылиβ](ru/strategies/maximum-profit)  Подробнее о том, как выбрать [стратегию для оптимизации по целям](https://yandex.ru/adv/news/optimizatsiya-konversiy-i-optimizatsiya-rentabelnosti-kak-nastroit-avtostrategii-v-direkte#algorithm). |
-| «Продвижение приложений» | [Оптимизация конверсий](ru/strategies/average-cpa-mobile-apps) (для приложений с трекинговой ссылкой)  [Оптимизация кликов](ru/strategies/optimize-clicks-mobile-apps) |
-| «Баннер на поиске» | [Оптимизация кликов для баннера на поиске](ru/strategies/optimize-number-of-clicks-mcb)  [Максимум кликов с ручными ставками](ru/strategies/manual-strategy) |
+| «Единая перфоманс-кампания» | [Максимум конверсий](../strategies/average-cpa.md)  [Максимум кликов](../strategies/average-cpc.md)  [Максимум кликов с ручными ставками](../strategies/manual-strategy.md)  [Максимум прибылиβ](../strategies/maximum-profit.md)  Подробнее о том, как выбрать [стратегию для оптимизации по целям](https://yandex.ru/adv/news/optimizatsiya-konversiy-i-optimizatsiya-rentabelnosti-kak-nastroit-avtostrategii-v-direkte#algorithm). |
+| «Продвижение приложений» | [Оптимизация конверсий](../strategies/average-cpa-mobile-apps.md) (для приложений с трекинговой ссылкой)  [Оптимизация кликов](../strategies/optimize-clicks-mobile-apps.md) |
+| «Баннер на поиске» | [Оптимизация кликов для баннера на поиске](../strategies/optimize-number-of-clicks-mcb.md)  [Максимум кликов с ручными ставками](../strategies/manual-strategy.md) |
 
 ## Как работают стратегии
 
@@ -113,84 +112,3 @@ source: https://yandex.ru/support/direct/ru/strategies/select-strategy
 - Смена модели атрибуции (в том числе включение или отключение опции «Кросс-девайс»), за исключением смены моделей атрибуции **Последний переход из Директа** и **Последний значимый переход** на модель **Автоматическая**. В этом случае, независимо от опции «Кросс-девайс», стратегия не перезапустится.
 - Смена места показа, например, **Продвижение в Поиске** заменили на **Рекламная сеть Яндекса**. Если к ранее выбранным местам показа добавить еще одно или удалить, может быть не перезапуск, а дообучение стратегии.
 - Приостановка кампании более чем на 7 дней.
-
-При перезапуске стратегии Нейротехнологии Яндекс Рекламы позволят системе быстро адаптироваться, однако для построения нового прогноза потребуется некоторое время.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Реклама в телеграм-каналах](ru/efficiency/telegram-ads)
-
-Следующая
-
-[Максимум конверсий](ru/strategies/average-cpa)

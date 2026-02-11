@@ -2,15 +2,14 @@
 source: https://yandex.ru/support/direct/ru/telegram-ads/features-views
 ---
 
-Особенности размещения рекламы
 
 # Особенности размещения рекламы
 
-- [Оплата](ru/telegram-ads/features-views#oplata)
-- [Показы рекламы](ru/telegram-ads/features-views#pokazy-reklamy)
-- [Маркировка рекламы](ru/telegram-ads/features-views#markirovka-reklamy)
-- [Особенности размещения для разных стран](ru/telegram-ads/features-views#restriction-countries)
-- [Вероятность невыхода поста](ru/telegram-ads/features-views#veroyatnost-nevyhoda-posta)
+- [Оплата](../telegram-ads/features-views.md#oplata)
+- [Показы рекламы](../telegram-ads/features-views.md#pokazy-reklamy)
+- [Маркировка рекламы](../telegram-ads/features-views.md#markirovka-reklamy)
+- [Особенности размещения для разных стран](../telegram-ads/features-views.md#restriction-countries)
+- [Вероятность невыхода поста](../telegram-ads/features-views.md#veroyatnost-nevyhoda-posta)
 
 ## Оплата
 
@@ -52,17 +51,17 @@ source: https://yandex.ru/support/direct/ru/telegram-ads/features-views
 
 Россия
 
-В телеграм-каналах не показывается реклама [деликатных](ru/moderation/categories/considerate) (личных) тематик, [магии](ru/moderation/categories/magic), военной тематики, [изделий, конструктивно сходных с оружием](ru/moderation/categories/weapons-pseudoweapon), в том числе аксессуары для них или оружия, [займов](ru/moderation/categories/finance-loan), [трагической](ru/moderation/categories/tragic) и [взрослой](ru/moderation/categories/unfamily) тематик, [социальная реклама](ru/moderation/categories/social-advertising).
+В телеграм-каналах не показывается реклама [деликатных](../moderation/categories/considerate.md) (личных) тематик, [магии](../moderation/categories/magic.md), военной тематики, [изделий, конструктивно сходных с оружием](../moderation/categories/weapons-pseudoweapon.md), в том числе аксессуары для них или оружия, [займов](../moderation/categories/finance-loan.md), [трагической](../moderation/categories/tragic.md) и [взрослой](../moderation/categories/unfamily.md) тематик, [социальная реклама](../moderation/categories/social-advertising.md).
 
 Для рекламы с оплатой за просмотры дополнительно ограничены тематики:
 
-- [взыскание долгов с физлиц](ru/moderation/categories/collector);
+- [взыскание долгов с физлиц](../moderation/categories/collector.md);
 - знакомства;
-- [лотереи](ru/moderation/categories/lottery-lotteries);
-- [ломбарды](ru/moderation/categories/finance-pawnshop);
+- [лотереи](../moderation/categories/lottery-lotteries.md);
+- [ломбарды](../moderation/categories/finance-pawnshop.md);
 - нижнее белье;
-- [услуги по дезинфекции, дезинсекции и дератизации](ru/moderation/categories/disinfection);
-- [услуги по сертификации](ru/moderation/categories/certification).
+- [услуги по дезинфекции, дезинсекции и дератизации](../moderation/categories/disinfection.md);
+- [услуги по сертификации](../moderation/categories/certification.md).
 
 Реклама медицинских услуг принимается с ограничениями. Допускается только брендовая реклама клиник, без упоминания заболеваний, симптомов, подробностей процедур.
 
@@ -78,7 +77,7 @@ source: https://yandex.ru/support/direct/ru/telegram-ads/features-views
 
 Узбекистан
 
-В телеграм-каналах не показывается реклама [банковских услуг](ru/moderation/categories/finance-banks), [займов](ru/moderation/categories/finance-loan), [деликатных](ru/moderation/categories/considerate) (личных) тематик, нижнего белья, магии, военной тематики, [изделий, конструктивно сходных с оружием](ru/moderation/categories/weapons-pseudoweapon), в том числе аксессуары для них или оружия.
+В телеграм-каналах не показывается реклама [банковских услуг](../moderation/categories/finance-banks.md), [займов](../moderation/categories/finance-loan.md), [деликатных](../moderation/categories/considerate.md) (личных) тематик, нижнего белья, магии, военной тематики, [изделий, конструктивно сходных с оружием](../moderation/categories/weapons-pseudoweapon.md), в том числе аксессуары для них или оружия.
 
 Подробнее о товарах и услугах, реклама которых запрещена или ограничена в Узбекистане, читайте в документе [Общие положения. Требования к рекламным материалам](https://yandex.uz/legal/general_adv_rules/uz/).
 
@@ -103,85 +102,5 @@ source: https://yandex.ru/support/direct/ru/telegram-ads/features-views
 
 Заведение рекламной кампании не гарантирует, что пост выйдет в канале. Возможные причины невыхода:
 
-- Сработало ограничение по [Brand Safety](ru/telegram-ads/brand-safety-views).
+- Сработало ограничение по [Brand Safety](../telegram-ads/brand-safety-views.md).
 - Канал отключили от сети из-за подозрительной активности.
-- Канал самостоятельно вышел из сети или изменил цену размещения на заданный период.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Создание и настройка](ru/telegram-ads/create-views)
-
-Следующая
-
-[Brand Safety](ru/telegram-ads/brand-safety-views)

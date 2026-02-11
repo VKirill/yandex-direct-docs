@@ -2,18 +2,17 @@
 source: https://yandex.ru/support/direct/ru/company-ads/maps
 ---
 
-Продвижение в Картах
 
 # Продвижение в Картах
 
-- [Как работает](ru/company-ads/maps#kak-rabotaet)
-- [Как работает при просмотре Карт без поиска](ru/company-ads/maps#no-search)
-- [Зеленая метка в поиске на карте](ru/company-ads/maps#zelenaya-metka-v-poiske-na-karte)
-- [Новые элементы в карточке организации](ru/company-ads/maps#novye-elementy-v-kartochke-organizacii)
-  - [Заголовок и текст объявления](ru/company-ads/maps#zagolovok-i-tekst-obuyavleniya)
-  - [Кнопка действия](ru/company-ads/maps#knopka-dejstviya)
-  - [Записаться онлайн](ru/company-ads/maps#zapisatsya-onlajn)
-- [Атрибуция в WhatsApp](ru/company-ads/maps#atribuciya-v-whatsapp)
+- [Как работает](../company-ads/maps.md#kak-rabotaet)
+- [Как работает при просмотре Карт без поиска](../company-ads/maps.md#no-search)
+- [Зеленая метка в поиске на карте](../company-ads/maps.md#zelenaya-metka-v-poiske-na-karte)
+- [Новые элементы в карточке организации](../company-ads/maps.md#novye-elementy-v-kartochke-organizacii)
+  - [Заголовок и текст объявления](../company-ads/maps.md#zagolovok-i-tekst-obuyavleniya)
+  - [Кнопка действия](../company-ads/maps.md#knopka-dejstviya)
+  - [Записаться онлайн](../company-ads/maps.md#zapisatsya-onlajn)
+- [Атрибуция в WhatsApp](../company-ads/maps.md#atribuciya-v-whatsapp)
 
 Яндекс Карты — сервис, который помогает людям прокладывать маршруты, находить нужные места и решать повседневные задачи. Карточки организаций отображаются как в ответ на поисковые запросы пользователей, так и при обычном просмотре карты. Дополнительные атрибуты в карточке позволяют выделиться среди конкурентов и сделать организацию более заметной, привлекая внимание пользователей.
 
@@ -125,84 +124,3 @@ source: https://yandex.ru/support/direct/ru/company-ads/maps
 ## Обновили мобильное приложение Директа
 
 Настроить продвижение теперь проще и удобнее, даже если у вас нет опыта
-
-[Скачать приложение](https://redirect.appmetrica.yandex.com/serve/1110145804347161038)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[О Рекламной сети Яндекса и внешних сетях](ru/general/yan)
-
-Следующая
-
-[Список организаций на поиске](ru/company-ads/company-card)

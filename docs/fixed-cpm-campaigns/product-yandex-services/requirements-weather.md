@@ -2,13 +2,12 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather
 ---
 
-Требования к баннерам на Яндекс Погоде
 
 # Требования к баннерам на Яндекс Погоде
 
-- [Технические требования к графическому баннеру](ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather#graf-req)
-- [Технические требования к HTML5-баннеру](ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather#tec-requirements)
-- [Требования к оформлению](ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather#design-requirements)
+- [Технические требования к графическому баннеру](../../fixed-cpm-campaigns/product-yandex-services/requirements-weather.md#graf-req)
+- [Технические требования к HTML5-баннеру](../../fixed-cpm-campaigns/product-yandex-services/requirements-weather.md#tec-requirements)
+- [Требования к оформлению](../../fixed-cpm-campaigns/product-yandex-services/requirements-weather.md#design-requirements)
 
 Вы можете загрузить графический или HTML5-баннер.
 
@@ -67,7 +66,7 @@ HTML5-баннер — это ZIP-архив, содержащий один фа
 11. В баннере медийной кампании не должны использоваться инструменты сбора статистики (пиксели, счетчики и прочие).
 12. В баннер можно добавить управляющую кнопку **Посмотреть еще раз**, нажатие на которую приведет к повторному запуску сценария.
 
-[Рекомендации к отображению HTML5-баннеров](ru/moderation/technical-restrictions#html5-recomended)
+[Рекомендации к отображению HTML5-баннеров](../../moderation/technical-restrictions.md#html5-recomended)
 
 ## Требования к оформлению
 
@@ -78,84 +77,3 @@ HTML5-баннер — это ZIP-архив, содержащий один фа
 Если в параметрах баннера включено отображение метки «Реклама», метка будет отрисована в верхнем левом углу. Размер метки — 54 × 12 пикселей c отступами по 4 пикселя сверху и слева.
 
 Для Директа рекомендуется не занимать поле слева сверху 65 × 30 пикселей.
-
-Пример
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Требования к баннерам на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services/requirements-ya)
-
-Следующая
-
-[Требования к баннерам Фантеха](ru/fixed-cpm-campaigns/product-yandex-services/requirements-mediaservices)

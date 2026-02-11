@@ -2,13 +2,12 @@
 source: https://yandex.ru/support/direct/ru/unified-performance-campaign/create-catalogs
 ---
 
-Создание страниц каталога
 
 # Создание страниц каталога
 
-- [Модерация объявлений и запуск кампании](ru/unified-performance-campaign/create-catalogs#section_vf4_c1h_yz)
-- [Вопросы и ответы](ru/unified-performance-campaign/create-catalogs#voprosy-i-otvety)
-  - [Не формируются объявления для страниц каталога](ru/unified-performance-campaign/create-catalogs#ne-formiruyutsya-obuyavleniya-dlya-stranic-kataloga)
+- [Модерация объявлений и запуск кампании](../unified-performance-campaign/create-catalogs.md#section_vf4_c1h_yz)
+- [Вопросы и ответы](../unified-performance-campaign/create-catalogs.md#voprosy-i-otvety)
+  - [Не формируются объявления для страниц каталога](../unified-performance-campaign/create-catalogs.md#ne-formiruyutsya-obuyavleniya-dlya-stranic-kataloga)
 
 В группу можно добавить **только одно** активное объявление для страниц каталога. Объявления для страниц каталога можно настроить на основе:
 
@@ -90,7 +89,7 @@ source: https://yandex.ru/support/direct/ru/unified-performance-campaign/create-
 
      Чтобы передать данные о страницах каталога загрузите фид в формате YML (для товаров), в формате XML (для автомобилей и недвижимости).
 
-     Используйте фид со специальным тегом `<collections>`, чтобы передать информацию о каталогах: `collection id`, ссылку, изображение, название и описание. Подробнее о каталогах [товаров](ru/feeds/requirements-yml#collections), [автомобилей](ru/feeds/requirements-other-categories#autos), [объектов недвижимости](ru/feeds/requirements-other-categories#real-estate).
+     Используйте фид со специальным тегом `<collections>`, чтобы передать информацию о каталогах: `collection id`, ссылку, изображение, название и описание. Подробнее о каталогах [товаров](../feeds/requirements-yml.md#collections), [автомобилей](../feeds/requirements-other-categories.md#autos), [объектов недвижимости](../feeds/requirements-other-categories.md#real-estate).
 
    Пользователи 1С-Битрикс могут быстро сформировать YML-фид со страницами каталога с помощью [инструкции](https://marketplace.1c-bitrix.ru/blog/yandex-market-collection/).
 
@@ -109,13 +108,13 @@ source: https://yandex.ru/support/direct/ru/unified-performance-campaign/create-
 
 ## Модерация объявлений и запуск кампании
 
-После создания ваше объявление будет проверено на соответствие [установленным требованиям](ru/moderation/adv-rules). Нажмите кнопку **Отправить на модерацию** и подтвердите свое согласие с условиями [оферты](https://yandex.ru/legal/oferta_direct/), на основании которой Яндекс размещает ваши объявления. Обычно модераторы проверяют объявление в течение нескольких часов. В выходные и праздничные дни модерация может занять больше времени, чем в будни.
+После создания ваше объявление будет проверено на соответствие [установленным требованиям](../moderation/adv-rules.md). Нажмите кнопку **Отправить на модерацию** и подтвердите свое согласие с условиями [оферты](https://yandex.ru/legal/oferta_direct/), на основании которой Яндекс размещает ваши объявления. Обычно модераторы проверяют объявление в течение нескольких часов. В выходные и праздничные дни модерация может занять больше времени, чем в будни.
 
 Результаты проверки вы получите письмом на адрес, указанный при создании кампании.
 
 После того как объявления будут проверены, вы получите письмо на адрес, указанный при создании кампании, а ее статус в списке кампаний изменится на «допущена модератором».
 
-Показы объявлений начнутся только после того, как вы [оплатите продвижение](ru/payments/payment-methods).
+Показы объявлений начнутся только после того, как вы [оплатите продвижение](../payments/payment-methods.md).
 
 [Попробовать](https://direct.yandex.ru/)
 
@@ -129,7 +128,7 @@ source: https://yandex.ru/support/direct/ru/unified-performance-campaign/create-
 
 Не формируются объявления по фиду (по ссылке или с компьютера)
 
-- Объявления для страниц каталога могли не сформироваться, если не были соблюдены [требования к фиду](ru/feeds/requirements) или [требования к CSV-файлу](ru/unified-performance-campaign/create-catalogs).
+- Объявления для страниц каталога могли не сформироваться, если не были соблюдены [требования к фиду](../feeds/requirements.md) или [требования к CSV-файлу](../unified-performance-campaign/create-catalogs.md).
 - Если использовались отдельные каталоги, отобранные с помощью фильтров, проверьте условия фильтров:
 
   - **Каталог** соответствует ID каталога в фиде (`collection id`).
@@ -140,87 +139,7 @@ source: https://yandex.ru/support/direct/ru/unified-performance-campaign/create-
 
 Проверьте, что выполнены условия:
 
-- Сайт соответствует [требованиям](ru/unified-performance-campaign/structure-of-site).
+- Сайт соответствует [требованиям](../unified-performance-campaign/structure-of-site.md).
 - На сайте есть каталоги, которые соответствуют условиям фильтров:
 
   - **Название каталога** соответствует названию страницы каталога на сайте.
-  - **Ссылка на каталог** соответствует ссылкам на каталоги сайта.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Товарное объявление](ru/unified-performance-campaign/create-product)
-
-Следующая
-
-[Нейрообъявление β](ru/unified-performance-campaign/create-neuro-ad)

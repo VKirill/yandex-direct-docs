@@ -2,27 +2,26 @@
 source: https://yandex.ru/support/direct/ru/products-cpm-campaign-frontpage/full-version
 ---
 
-Рекомендации по оформлению
 
 # Рекомендации по оформлению
 
-- [Шрифт](ru/products-cpm-campaign-frontpage/full-version#font)
-- [Расположение текста](ru/products-cpm-campaign-frontpage/full-version#placement)
-- [Размер логотипа](ru/products-cpm-campaign-frontpage/full-version#logo)
-- [Цвет фона](ru/products-cpm-campaign-frontpage/full-version#font-color)
-- [Длительность анимации](ru/products-cpm-campaign-frontpage/full-version#animation)
-- [Элементы интерфейса на баннере](ru/products-cpm-campaign-frontpage/full-version#interface)
-- [Возрастное ограничение](ru/products-cpm-campaign-frontpage/full-version#age-alert)
-- [Кнопка или бейдж магазина приложений](ru/products-cpm-campaign-frontpage/full-version#store)
-- [Дополнительные рекомендации](ru/products-cpm-campaign-frontpage/full-version#additional-requirements1)
-- [Читаемость шрифта](ru/products-cpm-campaign-frontpage/full-version#optional-font)
-- [Не используйте эффекты и украшательства](ru/products-cpm-campaign-frontpage/full-version#font-effect)
-- [Уменьшите количество шрифтов](ru/products-cpm-campaign-frontpage/full-version#font-min)
-- [Не используйте изображения/фото низкого качества](ru/products-cpm-campaign-frontpage/full-version#quality-images)
-- [Выберите главное](ru/products-cpm-campaign-frontpage/full-version#main)
-- [Не мельчите](ru/products-cpm-campaign-frontpage/full-version#size-medium)
-- [Не используйте текстовые баннеры](ru/products-cpm-campaign-frontpage/full-version#not-only-text)
-- [Оформление обязательной юридической информации](ru/products-cpm-campaign-frontpage/full-version#main-info)
+- [Шрифт](../products-cpm-campaign-frontpage/full-version.md#font)
+- [Расположение текста](../products-cpm-campaign-frontpage/full-version.md#placement)
+- [Размер логотипа](../products-cpm-campaign-frontpage/full-version.md#logo)
+- [Цвет фона](../products-cpm-campaign-frontpage/full-version.md#font-color)
+- [Длительность анимации](../products-cpm-campaign-frontpage/full-version.md#animation)
+- [Элементы интерфейса на баннере](../products-cpm-campaign-frontpage/full-version.md#interface)
+- [Возрастное ограничение](../products-cpm-campaign-frontpage/full-version.md#age-alert)
+- [Кнопка или бейдж магазина приложений](../products-cpm-campaign-frontpage/full-version.md#store)
+- [Дополнительные рекомендации](../products-cpm-campaign-frontpage/full-version.md#additional-requirements1)
+- [Читаемость шрифта](../products-cpm-campaign-frontpage/full-version.md#optional-font)
+- [Не используйте эффекты и украшательства](../products-cpm-campaign-frontpage/full-version.md#font-effect)
+- [Уменьшите количество шрифтов](../products-cpm-campaign-frontpage/full-version.md#font-min)
+- [Не используйте изображения/фото низкого качества](../products-cpm-campaign-frontpage/full-version.md#quality-images)
+- [Выберите главное](../products-cpm-campaign-frontpage/full-version.md#main)
+- [Не мельчите](../products-cpm-campaign-frontpage/full-version.md#size-medium)
+- [Не используйте текстовые баннеры](../products-cpm-campaign-frontpage/full-version.md#not-only-text)
+- [Оформление обязательной юридической информации](../products-cpm-campaign-frontpage/full-version.md#main-info)
 
 На странице представлены рекомендации по оформлению баннера. Обратите внимание, что иллюстрации в уменьшенном размере.
 
@@ -181,84 +180,3 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-frontpage/full
 Фиксация и наведение курсора
 
 Правовая информация отображается не менее трех секунд, а также доступна далее по наведению курсора.
-
-Премиум-баннер в поиске и Премиум-биллборд
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Требования к баннерам](ru/products-cpm-campaign-frontpage/requirements)
-
-Следующая
-
-[Как оценить результат](ru/products-cpm-campaign-frontpage/statistics)

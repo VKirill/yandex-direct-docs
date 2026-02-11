@@ -2,15 +2,14 @@
 source: https://yandex.ru/support/direct/ru/statistics/url-tags
 ---
 
-Параметры URL
 
 # Параметры URL
 
-- [Что такое параметры URL](ru/statistics/url-tags#about)
-- [Как добавить параметры в ссылку](ru/statistics/url-tags#how-add)
-- [Метки UTM](ru/statistics/url-tags#utm)
-- [Динамические параметры Директа](ru/statistics/url-tags#dynamic)
-- [Отчет по меткам в Метрике](ru/statistics/url-tags#reports)
+- [Что такое параметры URL](../statistics/url-tags.md#about)
+- [Как добавить параметры в ссылку](../statistics/url-tags.md#how-add)
+- [Метки UTM](../statistics/url-tags.md#utm)
+- [Динамические параметры Директа](../statistics/url-tags.md#dynamic)
+- [Отчет по меткам в Метрике](../statistics/url-tags.md#reports)
 
 В ссылке объявления Директа можно передавать различные параметры и метки, в том числе UTM-метки. С их помощью можно отслеживать различные статистические показатели (например, источники трафика) и оценивать эффективность кампаний.
 
@@ -25,7 +24,7 @@ source: https://yandex.ru/support/direct/ru/statistics/url-tags
 В зависимости от задаваемого значения параметры могут быть:
 
 - **статические** — передаваемое значение вы задаете сами, например, `utm_term=sony_playstation` (`utm_term` — название, `sony_playstation` — статическое значение);
-- **динамические** — система автоматически подставит необходимые данные, например, `term={keyword}` или `utm_term={keyword}`, где вместо `{keyword}` передается ключевая фраза, по которой произошел показ. Список [динамических параметров Директа](ru/statistics/url-tags#dynamic).
+- **динамические** — система автоматически подставит необходимые данные, например, `term={keyword}` или `utm_term={keyword}`, где вместо `{keyword}` передается ключевая фраза, по которой произошел показ. Список [динамических параметров Директа](../statistics/url-tags.md#dynamic).
 
 ## Как добавить параметры в ссылку
 
@@ -41,9 +40,9 @@ http://www.site.ru/?source=yandex-direct&term={keyword}
 
 Внимание
 
-Кириллические символы, передаваемые в URL, автоматически кодируются в UTF-8. Важно, чтобы ваш сайт корректно принимал запросы в этой кодировке. Когда кириллические символы кодируются в UTF-8, URL увеличивается. Если он превысит 4096 байт, значения будут переданы только для меток [yclid](ru/statistics/metrika#settings) и openstat.
+Кириллические символы, передаваемые в URL, автоматически кодируются в UTF-8. Важно, чтобы ваш сайт корректно принимал запросы в этой кодировке. Когда кириллические символы кодируются в UTF-8, URL увеличивается. Если он превысит 4096 байт, значения будут переданы только для меток [yclid](../statistics/metrika.md#settings) и openstat.
 
-[Как добавить параметры URL в кампании](ru/statistics/url-tags-for-camping)
+[Как добавить параметры URL в кампании](../statistics/url-tags-for-camping.md)
 
 ## Метки UTM
 
@@ -71,7 +70,7 @@ http://www.site.ru/?utm_source=yandex-direct&utm_medium=cpc&utm_campaign=polet_v
 
 Вы можете составлять ссылку с нужными параметрами вручную или использовать [сервис для генерации UTM-меток](https://yandex.ru/search/?text=%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80+utm+vtnjr&clid=1955453&win=507&lr=213). Убедитесь, что страницы, на которые ведут получившиеся ссылки, доступны.
 
-[Как добавить UTM-метки в кампании](ru/statistics/url-tags-for-camping)
+[Как добавить UTM-метки в кампании](../statistics/url-tags-for-camping.md)
 
 ## Динамические параметры Директа
 
@@ -112,7 +111,7 @@ http://www.site.ru/?type={source_type}&source={source}&block={position_type}&pos
 
 Примечание
 
-В [быстрых ссылках](ru/efficiency/quick-links) подстановка значений параметров `{campaign_id}`, `{ad_id}`, `{banner_id}`, `{phrase_id}` гарантируется только при наличии этих же параметров в ссылке самого объявления.
+В [быстрых ссылках](../efficiency/quick-links.md) подстановка значений параметров `{campaign_id}`, `{ad_id}`, `{banner_id}`, `{phrase_id}` гарантируется только при наличии этих же параметров в ссылке самого объявления.
 
 **UTM-метки можно использовать совместно с динамическими параметрами Директа**
 
@@ -128,99 +127,3 @@ http://www.site.ru/?utm_source={source}&utm_medium=cpc&utm_campaign={campaign_id
 
 - [По параметрам URL](https://yandex.ru/support/metrica/content/url-params.html) — если вы добавляете параметры со своими названиями в ссылки.
 - [Отчет по UTM-меткам](https://yandex.ru/support/metrica/reports/tags-utm.html#tags-utm) — если вы добавляете в ссылки метки по стандарту UTM.
-
-  Для получения корректных данных в стандартном [отчете по UTM-меткам](https://yandex.ru/support/metrica/reports/tags-utm.html#tags-utm) в Метрике необходимо использовать все UTM-метки. Обратите внимание, если вы используете все UTM-метки, кроме `utm_content`, данные по `utm_term` можно будет получить, только перестроив отчет (необходимо удалить группировку `utm_content` в настройках отчета).
-
-#### Узнайте больше
-
-- [Как добавить параметры URL в кампании](ru/statistics/url-tags-for-camping)
-- [Использование специальных параметров URL в настройках объявлений](ru/statistics/use-url-tags)
-- [Оценка эффективности кампании](ru/statistics/metrika)
-- [Почему у меня в статистике Яндекс Директа отражается больше переходов, чем зарегистрировал счетчик посетителей на сайте?](ru/troubleshooting/stat#counters)
-- [Справка Яндекс Метрики: Метки](https://yandex.ru/support/metrica/reports/tags.html)
-- [Справка Яндекс Метрики: Данные о переходах по объявлениям в Яндекс Директе](https://yandex.ru/support/metrica/reports/direct.html)
-
-## Обновили мобильное приложение Директа
-
-Настроить продвижение теперь проще и удобнее, даже если у вас нет опыта
-
-[Скачать приложение](https://redirect.appmetrica.yandex.com/serve/1110145804347161038)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Яндекс Метрика](ru/statistics/metrika)
-
-Следующая
-
-[Как добавить параметры URL в кампании](ru/statistics/url-tags-for-camping)

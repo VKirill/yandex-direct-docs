@@ -2,18 +2,17 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-search/requirements
 ---
 
-Требования к баннеру
 
 # Требования к баннеру
 
-- [Технические требования](ru/fixed-cpm-campaigns/videobanner-search/requirements#tehnicheskie-trebovaniya)
-- [Требования модерации](ru/fixed-cpm-campaigns/videobanner-search/requirements#trebovaniya-moderacii)
+- [Технические требования](../../fixed-cpm-campaigns/videobanner-search/requirements.md#tehnicheskie-trebovaniya)
+- [Требования модерации](../../fixed-cpm-campaigns/videobanner-search/requirements.md#trebovaniya-moderacii)
 
 ## Технические требования
 
 ##### **Видео**
 
-Видео должно соответствовать [требованиям модерации](ru/moderation/ad-rules#video) и следующим техническим требованиям:
+Видео должно соответствовать [требованиям модерации](../../moderation/ad-rules.md#video) и следующим техническим требованиям:
 
 |  |  |
 | --- | --- |
@@ -34,11 +33,11 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-sear
 
 ##### **Логотип**
 
-Квадратное изображение в формате JPG, PNG, до 80 × 80 пикселей, до 120 КБ. [Подробнее](ru/efficiency/logo)
+Квадратное изображение в формате JPG, PNG, до 80 × 80 пикселей, до 120 КБ. [Подробнее](../../efficiency/logo.md)
 
 ##### **Кнопка действия**
 
-Выберите подходящий вариант или используйте кнопку по умолчанию. [Подробнее](ru/efficiency/button)
+Выберите подходящий вариант или используйте кнопку по умолчанию. [Подробнее](../../efficiency/button.md)
 
 ##### **Изображения**
 
@@ -47,7 +46,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-sear
 - одно размером 516 × 272, не более 120 КБ.
 - второе размером 223 × 159, не более 120 КБ.
 
-Изображения должны соответствовать [требованиям](ru/moderation/ad-rules#pics).
+Изображения должны соответствовать [требованиям](../../moderation/ad-rules.md#pics).
 
 ##### **Изображения в карусели**
 
@@ -55,7 +54,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-sear
 - соотношение сторон — 1:1 (только квадрат);
 - максимальный объем файла — до 10 МБ.
 
-Изображения должны соответствовать [требованиям](ru/moderation/ad-rules#pics).
+Изображения должны соответствовать [требованиям](../../moderation/ad-rules.md#pics).
 
 ##### **Тексты**
 
@@ -63,7 +62,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-sear
 - дополнительный заголовок — 30 символов и 15 знаков препинания, опционально;
 - текст объявления — 81 символ и 15 знаков препинания, обязательный элемент.
 
-[Требования модерации](ru/moderation/ad-rules#ad-text) к текстам.
+[Требования модерации](../../moderation/ad-rules.md#ad-text) к текстам.
 
 ## Требования модерации
 
@@ -85,84 +84,3 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/videobanner-sear
 - услуги по дезинфекции и дезинсекции;
 - некоторые финансовые услуги и обучающие курсы по ним (микрофинансирование, предложение займов от частных лиц, сделки с бинарными опционами, деятельность форекс-дилеров, сделки с форекс-дилерами и т. п.);
 - иные тематики, не соответствующие редакционной политике Яндекса.
-
-Этот список не является полным и может быть изменен Яндексом в любой момент.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Как запустить кампанию](ru/fixed-cpm-campaigns/videobanner-search/create)
-
-Следующая
-
-[Как оценить результат](ru/fixed-cpm-campaigns/videobanner-search/statistics)

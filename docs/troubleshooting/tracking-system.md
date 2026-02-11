@@ -2,16 +2,15 @@
 source: https://yandex.ru/support/direct/ru/troubleshooting/tracking-system
 ---
 
-Заявка на подключение трекинговой системы
 
 # Заявка на подключение трекинговой системы
 
-- [Я заказчик (агентство), хочу, чтобы мою трекинговую систему интегрировали с Директом](ru/troubleshooting/tracking-system#ya-zakazchik-agentstvo,-hochu,-chtoby-moyu-trekingovuyu-sistemu-integrirovali-s-direktom)
-- [Я владелец трекинговой системы, хочу, чтобы мою систему интегрировали с Директом](ru/troubleshooting/tracking-system#ya-vladelec-trekingovoj-sistemy,-hochu,-chtoby-moyu-sistemu-integrirovali-s-direktom)
+- [Я заказчик (агентство), хочу, чтобы мою трекинговую систему интегрировали с Директом](../troubleshooting/tracking-system.md#ya-zakazchik-agentstvo,-hochu,-chtoby-moyu-trekingovuyu-sistemu-integrirovali-s-direktom)
+- [Я владелец трекинговой системы, хочу, чтобы мою систему интегрировали с Директом](../troubleshooting/tracking-system.md#ya-vladelec-trekingovoj-sistemy,-hochu,-chtoby-moyu-sistemu-integrirovali-s-direktom)
 
 ## Я заказчик (агентство), хочу, чтобы мою трекинговую систему интегрировали с Директом
 
-Директ уже поддерживает несколько трекинговых систем — они перечислены в разделе [Трекинговые системы](ru/products-mobile-apps-ads/tracking-systems). Проверьте, есть ли среди них та система, которую вы используете. Если нет, вы можете обратиться к владельцу (разработчику) трекинговой системы с просьбой об интеграции с Директом.
+Директ уже поддерживает несколько трекинговых систем — они перечислены в разделе [Трекинговые системы](../products-mobile-apps-ads/tracking-systems.md). Проверьте, есть ли среди них та система, которую вы используете. Если нет, вы можете обратиться к владельцу (разработчику) трекинговой системы с просьбой об интеграции с Директом.
 
 Внимание
 

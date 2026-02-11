@@ -2,17 +2,16 @@
 source: https://yandex.ru/support/direct/ru/thematic-section/insurance/offer-status
 ---
 
-Получение предложения ОСАГО
 
 # Получение предложения ОСАГО
 
-- [Формат запроса](ru/thematic-section/insurance/offer-status#request-format)
-- [Успешный ответ](ru/thematic-section/insurance/offer-status#200-ok)
-  - [PartnerInfo](ru/thematic-section/insurance/offer-status#partnerinfo)
-  - [OfferStatus](ru/thematic-section/insurance/offer-status#offerstatus)
-  - [UpsaleInfo](ru/thematic-section/insurance/offer-status#upsaleinfo)
-  - [UpsaleOption](ru/thematic-section/insurance/offer-status#upsaleoption)
-  - [RiskPayment](ru/thematic-section/insurance/offer-status#riskpayment)
+- [Формат запроса](../../thematic-section/insurance/offer-status.md#request-format)
+- [Успешный ответ](../../thematic-section/insurance/offer-status.md#200-ok)
+  - [PartnerInfo](../../thematic-section/insurance/offer-status.md#partnerinfo)
+  - [OfferStatus](../../thematic-section/insurance/offer-status.md#offerstatus)
+  - [UpsaleInfo](../../thematic-section/insurance/offer-status.md#upsaleinfo)
+  - [UpsaleOption](../../thematic-section/insurance/offer-status.md#upsaleoption)
+  - [RiskPayment](../../thematic-section/insurance/offer-status.md#riskpayment)
 
 Метод для получения предложения ОСАГО по идентификатору запроса (необязательный).
 
@@ -89,8 +88,8 @@ GET /osago/offer
 | --- | --- | --- | --- |
 | **Параметр** | **Описание** | **Тип** | **Комментарий** |
 | `offer_id` | Идентификатор. | `string` | Пример: `44234899`. |
-| `partner` | Информация о партнере, который является страховщиком. | [PartnerInfo](ru/thematic-section/insurance/offer-status#partnerinfo) |  |
-| `status` | Текущий статус обработки предложения ОСАГО. | [OfferStatus](ru/thematic-section/insurance/offer-status#offerstatus) |  |
+| `partner` | Информация о партнере, который является страховщиком. | [PartnerInfo](../../thematic-section/insurance/offer-status.md#partnerinfo) |  |
+| `status` | Текущий статус обработки предложения ОСАГО. | [OfferStatus](../../thematic-section/insurance/offer-status.md#offerstatus) |  |
 | `draft_url` | Ссылка на черновик полиса в формате PDF. | `string` | Пример: `https://partner.ru/policy?id=112233`. |
 | `is_ext_prolongation` | Является ли предложение пролонгацией от другой компании. | `boolean` | Пример: `false`. |
 | `is_prolongation` | Является ли предложение пролонгацией. | `boolean` | Пример: `true`. |
@@ -100,7 +99,7 @@ GET /osago/offer
 | `policy_number` | Номер полиса. | `string` | Пример: `0166171796`. |
 | `policy_series` | Серия полиса. | `string` | Пример: `ХХХ`. |
 | `price` | Цена. | `number` | Пример: `7072`. |
-| `upsales` | Массив предложений кросс-продаж. | [UpsaleInfo](ru/thematic-section/insurance/offer-status#upsaleinfo) |  |
+| `upsales` | Массив предложений кросс-продаж. | [UpsaleInfo](../../thematic-section/insurance/offer-status.md#upsaleinfo) |  |
 
 ### PartnerInfo
 
@@ -151,7 +150,7 @@ GET /osago/offer
 | `insured` | Застрахованные объекты/лица. | `string` | Пример: `Все, кто находился в машине в момент ДТП, до 5 человек`. |
 | `short_name` | Короткое название кросс-продажи. | `string` | Пример: `Страхование пассажиров`. |
 | `is_required` | Является ли кросс-продажа обязательной для оформления полиса. | `boolean` | Пример: `true`. |
-| `options` | Массив опций кросс-продажи. | [UpsaleOption](ru/thematic-section/insurance/offer-status#upsaleoption) | Пользователь может выбрать одну из опций. |
+| `options` | Массив опций кросс-продажи. | [UpsaleOption](../../thematic-section/insurance/offer-status.md#upsaleoption) | Пользователь может выбрать одну из опций. |
 | `upsale_code` | Код кросс-продажи. | `string` | Пример: `AccidentPassengersPoolForEOsago150`. |
 
 ### UpsaleOption
@@ -166,7 +165,7 @@ GET /osago/offer
 | `is_default` | Является ли опция включенной по умолчанию. | `boolean` | Если для кросс-продажи есть `is_required = true`, то данная опция обязательна и включена как `read only`. |
 | `name` | Название опции. | `string` | Пример: `Страхование пассажиров`. |
 | `price` | Страховая премия опции. | `number` | Пример: `1480`. |
-| `risk_payments` | Массив рисков и страховых сумм. | [RiskPayment](ru/thematic-section/insurance/offer-status#riskpayment) |  |
+| `risk_payments` | Массив рисков и страховых сумм. | [RiskPayment](../../thematic-section/insurance/offer-status.md#riskpayment) |  |
 
 ### RiskPayment
 
@@ -175,84 +174,3 @@ GET /osago/offer
 | **Параметр** | **Описание** | **Тип** | **Комментарий** |
 | `pays` | Массив страховых сумм. | `string[]` | Пример: `[ "100% страховой суммы" ]`. |
 | `risk` | Название риска. | `string` | Пример: `Смерть в результате несчастного случая`. |
-
-[Стандартные коды ответов](ru/thematic-section/insurance/responce-codes)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Получение статуса расчета ОСАГО](ru/thematic-section/insurance/calculation-status)
-
-Следующая
-
-[Подтверждение предложения ОСАГО](ru/thematic-section/insurance/confirm-offer)

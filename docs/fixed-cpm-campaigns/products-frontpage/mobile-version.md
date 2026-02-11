@@ -2,19 +2,18 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/products-frontpage/mobile-version
 ---
 
-Оформление баннеров для мобильной версии
 
 # Оформление баннеров для мобильной версии
 
-- [Шрифт](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#font-mob)
-- [Расположение текста и элементов баннера](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#placement-mob)
-- [Размер логотипа](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#logo-mob)
-- [Цвет фона](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#background-color-mob)
-- [Длительность анимации](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#animation-mob)
-- [Читаемость обязательной информации](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#info-main-mob)
-- [Элементы интерфейса на баннере](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#interface-mob)
-- [Возрастное ограничение](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#age-alert-mob)
-- [Кнопка/бейдж магазина приложений](ru/fixed-cpm-campaigns/products-frontpage/mobile-version#store-mob)
+- [Шрифт](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#font-mob)
+- [Расположение текста и элементов баннера](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#placement-mob)
+- [Размер логотипа](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#logo-mob)
+- [Цвет фона](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#background-color-mob)
+- [Длительность анимации](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#animation-mob)
+- [Читаемость обязательной информации](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#info-main-mob)
+- [Элементы интерфейса на баннере](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#interface-mob)
+- [Возрастное ограничение](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#age-alert-mob)
+- [Кнопка/бейдж магазина приложений](../../fixed-cpm-campaigns/products-frontpage/mobile-version.md#store-mob)
 
 На странице представлены рекомендации по оформлению баннера. Обратите внимание, что иллюстрации в уменьшенном размере.
 
@@ -64,7 +63,7 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/products-frontpa
 
 ## Читаемость обязательной информации
 
-Обязательная правовая информация (например, название банка и ОПФ, сроки акции и т. д.) должна быть четко видна сразу, без взаимодействия пользователя с баннером. Подробнее смотрите в [дополнительных рекомендациях](ru/fixed-cpm-campaigns/products-frontpage/full-version#additional-requirements).
+Обязательная правовая информация (например, название банка и ОПФ, сроки акции и т. д.) должна быть четко видна сразу, без взаимодействия пользователя с баннером. Подробнее смотрите в [дополнительных рекомендациях](../../fixed-cpm-campaigns/products-frontpage/full-version.md#additional-requirements).
 
 Пример хорошего баннера в увеличенном виде:
 
@@ -91,83 +90,3 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/products-frontpa
 1. Максимальные размеры кнопки или бейджа: высота — 50 пикселей, ширина — 150 пикселей.
 2. Не рекомендуется делать кнопку или бейдж желтыми, так как этот цвет используется для стандартных элементов дизайна страниц Яндекса. Допустимый желтый цвет — #F0E5AD и светлее.
 3. Расстояние от края баннера до кнопки должно быть не меньше 10 пикселей.
-4. К бейджу магазина приложений предъявляются такие же требования, как к логотипам.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Рекомендации по оформлению](ru/fixed-cpm-campaigns/products-frontpage/full-version)
-
-Следующая
-
-[Как оценить результат](ru/fixed-cpm-campaigns/products-frontpage/statistics)

@@ -2,17 +2,16 @@
 source: https://yandex.ru/support/direct/ru/efficiency/turbo-pages-statistics
 ---
 
-Статистика
 
 # Статистика
 
-- [Яндекс Метрика](ru/efficiency/turbo-pages-statistics#metrika)
-  - [Автоматический счетчик](ru/efficiency/turbo-pages-statistics#auto)
-  - [Пользовательский счетчик](ru/efficiency/turbo-pages-statistics#user)
-- [Мастер отчетов](ru/efficiency/turbo-pages-statistics#report-wizard)
-- [Добавление параметров к ссылке](ru/efficiency/turbo-pages-statistics#tags)
+- [Яндекс Метрика](../efficiency/turbo-pages-statistics.md#metrika)
+  - [Автоматический счетчик](../efficiency/turbo-pages-statistics.md#auto)
+  - [Пользовательский счетчик](../efficiency/turbo-pages-statistics.md#user)
+- [Мастер отчетов](../efficiency/turbo-pages-statistics.md#report-wizard)
+- [Добавление параметров к ссылке](../efficiency/turbo-pages-statistics.md#tags)
 
-Вы можете настроить сбор данных о работе пользователей с Турбо-сайтами в Яндекс Метрике с помощью [автоматически созданного](ru/efficiency/turbo-pages-statistics#auto) или вашего [собственного](ru/efficiency/turbo-pages-statistics#user) счетчика, а также через [добавление специальных параметров к ссылке](ru/efficiency/turbo-pages-statistics#tags). Посмотреть статистику по Турбо-сайтам можно в [Мастере отчетов](ru/efficiency/turbo-pages-statistics#report-wizard).
+Вы можете настроить сбор данных о работе пользователей с Турбо-сайтами в Яндекс Метрике с помощью [автоматически созданного](../efficiency/turbo-pages-statistics.md#auto) или вашего [собственного](../efficiency/turbo-pages-statistics.md#user) счетчика, а также через [добавление специальных параметров к ссылке](../efficiency/turbo-pages-statistics.md#tags). Посмотреть статистику по Турбо-сайтам можно в [Мастере отчетов](../efficiency/turbo-pages-statistics.md#report-wizard).
 
 ## Яндекс Метрика
 
@@ -58,89 +57,8 @@ source: https://yandex.ru/support/direct/ru/efficiency/turbo-pages-statistics
 
 ## Мастер отчетов
 
-Оценить результат работы объявлений с Турбо-сайтами можно в [Мастере отчетов](ru/statistics/report-wizard). Например, чтобы посмотреть, как уменьшилось количество отказов при показе на мобильных, используйте срез **№ объявления**. В блоке **Столбцы** выберите **Отказы**. Затем добавьте фильтр **Тип устройства** → **мобильные**.
+Оценить результат работы объявлений с Турбо-сайтами можно в [Мастере отчетов](../statistics/report-wizard.md). Например, чтобы посмотреть, как уменьшилось количество отказов при показе на мобильных, используйте срез **№ объявления**. В блоке **Столбцы** выберите **Отказы**. Затем добавьте фильтр **Тип устройства** → **мобильные**.
 
-[Подробнее о том, как оценить результат кампании](ru/statistics/performance-stat-guide)
+[Подробнее о том, как оценить результат кампании](../statistics/performance-stat-guide.md)
 
 ## Добавление параметров к ссылке
-
-К ссылке на Турбо-сайт можно добавить различные параметры и метки, чтобы системы веб-аналитики (например, Яндекс Метрика) получали дополнительную информацию о переходах по этой ссылке. На странице редактирования объявлений нажмите **+Трекинговые параметры**. Параметры будут добавлены ко всем ссылкам на Турбо-сайты, в том числе и к быстрым ссылкам. Подробнее о [параметрах URL](ru/statistics/url-tags).
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Настройки сайтов](ru/efficiency/turbo-pages-settings)
-
-Следующая
-
-[Сервисы Рекламы](https://yandex.ru/support/adv/)

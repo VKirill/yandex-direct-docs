@@ -2,22 +2,21 @@
 source: https://yandex.ru/support/direct/ru/efficiency/turbo-pages-recommendations
 ---
 
-Рекомендации по оформлению Турбо-сайтов
 
 # Рекомендации по оформлению Турбо-сайтов
 
-- [Логотип с горизонтальной ориентацией](ru/efficiency/turbo-pages-recommendations#logo)
-- [Контраст между текстом и фоном](ru/efficiency/turbo-pages-recommendations#contrast)
-- [Качественные изображения](ru/efficiency/turbo-pages-recommendations#image)
-- [Кнопка на главном экране](ru/efficiency/turbo-pages-recommendations#button)
-- [Разделение текста на смысловые блоки](ru/efficiency/turbo-pages-recommendations#structure)
-- [Ритмичная композиция](ru/efficiency/turbo-pages-recommendations#composition)
-- [Равномерные отступы](ru/efficiency/turbo-pages-recommendations#margin)
-- [Адаптивность страниц](ru/efficiency/turbo-pages-recommendations#layout)
-- [Текст не мешает восприятию изображения](ru/efficiency/turbo-pages-recommendations#text-image)
-- [Минимум текста по центру](ru/efficiency/turbo-pages-recommendations#center)
-- [Выравнивание элементов по центру](ru/efficiency/turbo-pages-recommendations#center-blocks)
-- [Минимум цветовых акцентов](ru/efficiency/turbo-pages-recommendations#color)
+- [Логотип с горизонтальной ориентацией](../efficiency/turbo-pages-recommendations.md#logo)
+- [Контраст между текстом и фоном](../efficiency/turbo-pages-recommendations.md#contrast)
+- [Качественные изображения](../efficiency/turbo-pages-recommendations.md#image)
+- [Кнопка на главном экране](../efficiency/turbo-pages-recommendations.md#button)
+- [Разделение текста на смысловые блоки](../efficiency/turbo-pages-recommendations.md#structure)
+- [Ритмичная композиция](../efficiency/turbo-pages-recommendations.md#composition)
+- [Равномерные отступы](../efficiency/turbo-pages-recommendations.md#margin)
+- [Адаптивность страниц](../efficiency/turbo-pages-recommendations.md#layout)
+- [Текст не мешает восприятию изображения](../efficiency/turbo-pages-recommendations.md#text-image)
+- [Минимум текста по центру](../efficiency/turbo-pages-recommendations.md#center)
+- [Выравнивание элементов по центру](../efficiency/turbo-pages-recommendations.md#center-blocks)
+- [Минимум цветовых акцентов](../efficiency/turbo-pages-recommendations.md#color)
 
 Чтобы сделать Турбо-сайты привлекательнее и увеличить конверсию, обратите внимание на наши советы по оформлению.
 
@@ -66,84 +65,3 @@ source: https://yandex.ru/support/direct/ru/efficiency/turbo-pages-recommendatio
 Если вы выбрали центральное расположение всех элементов страницы, старайтесь соблюдать его во всех секциях. Так пользователям будет проще воспринимать контент вашей страницы.
 
 ## Минимум цветовых акцентов
-
-Большое количество цветовых акцентов создает путаницу на странице: непонятно, что важнее. Достаточно использовать 1−2 цвета, чтобы выделить важные элементы.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Оформление сайта](ru/efficiency/turbo-pages-sections)
-
-Следующая
-
-[Электронная коммерция](ru/efficiency/turbo-pages-ecommerce)

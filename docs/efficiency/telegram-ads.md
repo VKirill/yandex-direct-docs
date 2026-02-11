@@ -2,16 +2,15 @@
 source: https://yandex.ru/support/direct/ru/efficiency/telegram-ads
 ---
 
-Реклама в телеграм-каналах
 
 # Реклама в телеграм-каналах
 
-- [Какие задачи решает](ru/efficiency/telegram-ads#kakie-zadachi-reshaet)
-- [Преимущества](ru/efficiency/telegram-ads#preimushestva)
-- [Виды размещений](ru/efficiency/telegram-ads#vidy-razmeshenij)
-- [Рекомендации по запуску кампании](ru/efficiency/telegram-ads#rekomendacii-po-zapusku-kampanii)
-- [Вопросы и ответы](ru/efficiency/telegram-ads#q-a)
-- [Кейсы и полезные материалы](ru/efficiency/telegram-ads#kejsy-i-poleznye-materialy)
+- [Какие задачи решает](../efficiency/telegram-ads.md#kakie-zadachi-reshaet)
+- [Преимущества](../efficiency/telegram-ads.md#preimushestva)
+- [Виды размещений](../efficiency/telegram-ads.md#vidy-razmeshenij)
+- [Рекомендации по запуску кампании](../efficiency/telegram-ads.md#rekomendacii-po-zapusku-kampanii)
+- [Вопросы и ответы](../efficiency/telegram-ads.md#q-a)
+- [Кейсы и полезные материалы](../efficiency/telegram-ads.md#kejsy-i-poleznye-materialy)
 
 Телеграм-каналы — новое место размещения объявлений. Релевантная реклама покажется в публичных и закрытых телеграм-каналах партнеров Рекламной сети Яндекса.
 
@@ -23,7 +22,7 @@ source: https://yandex.ru/support/direct/ru/efficiency/telegram-ads
 
 - **Автоподбор каналов с оплатой за клики**
 
-  Запуск рекламы с автоподбором каналов в Беларуси в настоящее время находится в бета-тестировании. Чтобы принять в нем участие, обратитесь в [отдел клиентского сервиса](ru/efficiency/telegram-ads#questions) и запросите доступ.
+  Запуск рекламы с автоподбором каналов в Беларуси в настоящее время находится в бета-тестировании. Чтобы принять в нем участие, обратитесь в [отдел клиентского сервиса](../efficiency/telegram-ads.md#questions) и запросите доступ.
 - **Размещение в каналах из каталога с оплатой за просмотры**
 
 Объявления выглядят нативно, как обычный пост с изображением, карточками или видео, опубликованный от лица канала. При этом они показываются всем пользователям, в том числе владельцам Premium-аккаунтов.
@@ -34,7 +33,7 @@ source: https://yandex.ru/support/direct/ru/efficiency/telegram-ads
 
 ## Преимущества
 
-- Оплата за [клики по рекламе](ru/telegram-ads/create) или за [просмотры в канале](ru/telegram-ads/create-views).
+- Оплата за [клики по рекламе](../telegram-ads/create.md) или за [просмотры в канале](../telegram-ads/create-views.md).
 - Видео и до 10 картинок в объявлении.
 - Таргетинг по тематикам каналов и регионам.
 - Показы в том числе и для Premium-подписчиков.
@@ -74,7 +73,7 @@ source: https://yandex.ru/support/direct/ru/efficiency/telegram-ads
 
 Какие стратегии доступны для рекламы в телеграм-канале?
 
-Для оплаты за клики доступна только стратегия [Максимум кликов](ru/strategies/average-cpc), изменить ее нельзя.
+Для оплаты за клики доступна только стратегия [Максимум кликов](../strategies/average-cpc.md), изменить ее нельзя.
 
 Какие способы оплаты стратегии доступны?
 
@@ -87,83 +86,3 @@ source: https://yandex.ru/support/direct/ru/efficiency/telegram-ads
 ## Кейсы и полезные материалы
 
 - [Как Реклама в телеграм-каналах в Директе помогла фармкомпании найти качественную аудиторию](https://yandex.ru/adv/solutions/cases/reklama-v-telegram-kanalah-binnofarm-grupp)
-- [Как видеосервис привлек новые подписки на онлайн-кинотеатр с рекламой в телеграм-каналах](https://yandex.ru/adv/solutions/cases/kak-wink-poluchil-novye-podpiski-na-videoservis-blagodarya-reklame-v-telegram-kanalah)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Показы в сетях. Вопросы и ответы](ru/qanda/yan)
-
-Следующая
-
-[Стратегии показов](ru/strategies/select-strategy)

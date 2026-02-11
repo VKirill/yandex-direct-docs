@@ -2,16 +2,15 @@
 source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-services/create
 ---
 
-Как запустить кампанию
 
 # Как запустить кампанию
 
-- [Шаг 1. Создайте кампанию и настройте ее параметры](ru/fixed-cpm-campaigns/product-yandex-services/create#shag-1-sozdajte-kampaniyu-i-nastrojte-ee-parametry)
-- [Шаг 2. Настройте целевую аудиторию](ru/fixed-cpm-campaigns/product-yandex-services/create#shag-2-nastrojte-celevuyu-auditoriyu)
-  - [Особенности и ограничения](ru/fixed-cpm-campaigns/product-yandex-services/create#feature)
-- [Шаг 3. Добавьте креативы](ru/fixed-cpm-campaigns/product-yandex-services/create#shag-3-dobavte-kreativy)
-- [Шаг 4. Укажите пиксель Яндекс Аудиторий и счетчик показов](ru/fixed-cpm-campaigns/product-yandex-services/create#shag-4-ukazhite-piksel-yandeks-auditorij-i-schetchik-pokazov)
-- [Модерация объявлений и запуск рекламной кампании](ru/fixed-cpm-campaigns/product-yandex-services/create#moderation)
+- [Шаг 1. Создайте кампанию и настройте ее параметры](../../fixed-cpm-campaigns/product-yandex-services/create.md#shag-1-sozdajte-kampaniyu-i-nastrojte-ee-parametry)
+- [Шаг 2. Настройте целевую аудиторию](../../fixed-cpm-campaigns/product-yandex-services/create.md#shag-2-nastrojte-celevuyu-auditoriyu)
+  - [Особенности и ограничения](../../fixed-cpm-campaigns/product-yandex-services/create.md#feature)
+- [Шаг 3. Добавьте креативы](../../fixed-cpm-campaigns/product-yandex-services/create.md#shag-3-dobavte-kreativy)
+- [Шаг 4. Укажите пиксель Яндекс Аудиторий и счетчик показов](../../fixed-cpm-campaigns/product-yandex-services/create.md#shag-4-ukazhite-piksel-yandeks-auditorij-i-schetchik-pokazov)
+- [Модерация объявлений и запуск рекламной кампании](../../fixed-cpm-campaigns/product-yandex-services/create.md#moderation)
 
 ## Шаг 1. Создайте кампанию и настройте ее параметры
 
@@ -21,19 +20,19 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 1. Выберите продукт — для каждого из них указаны максимальное и минимальное количество показов, срок действия, CPM.
 2. Задайте даты начала и окончания кампании. Даты проведения кампании не должны выходить за срок действия продукта.
-3. Укажите бюджет кампании. Планируемое количество показов будет рассчитано по базовому CPM продукта. К базовому CPM могут применяться наценки, если в продукте применяются настройки с повышающим коэффициентом для таргетингов. Итоговый CPM будет указан после выбора всех таргетингов в группе. Подробнее о наценках — в [описании продукта](https://yandex.ru/adv/products/display/mediaproducts). Если вы планируете кампанию с показами в Москве и Московской области, учитывайте [особенности и ограничения](ru/fixed-cpm-campaigns/product-yandex-services/create#feature) при расчете количества показов и бюджета для этого региона.
-4. Укажите [счетчик Яндекс Метрики](ru/statistics/metrika) вашего сайта.
-5. Запустите [исследования](ru/research), если кампания подходит под их условия.
+3. Укажите бюджет кампании. Планируемое количество показов будет рассчитано по базовому CPM продукта. К базовому CPM могут применяться наценки, если в продукте применяются настройки с повышающим коэффициентом для таргетингов. Итоговый CPM будет указан после выбора всех таргетингов в группе. Подробнее о наценках — в [описании продукта](https://yandex.ru/adv/products/display/mediaproducts). Если вы планируете кампанию с показами в Москве и Московской области, учитывайте [особенности и ограничения](../../fixed-cpm-campaigns/product-yandex-services/create.md#feature) при расчете количества показов и бюджета для этого региона.
+4. Укажите [счетчик Яндекс Метрики](../../statistics/metrika.md) вашего сайта.
+5. Запустите [исследования](../../research.md), если кампания подходит под их условия.
 6. Перейдите к дополнительным настройкам и включите опцию **Продлевать кампанию автоматически**, чтобы эффективно использовать бюджет и охватить большую аудиторию. Период размещения будет увеличен до даты окончания рекламной кампании или пока не закончится бюджет.
 
 ## Шаг 2. Настройте целевую аудиторию
 
 Создайте группу объявлений. Настройте для нее:
 
-- [Регионы показа](ru/efficiency/geotargeting).
+- [Регионы показа](../../efficiency/geotargeting.md).
 
   Если регион показа не Россия, выберите язык объявлений — так объявления будут показываться только тем потенциальным клиентам, которые понимают выбранный язык или посещают интернет-ресурсы на этом языке.
-- [Пол и возраст](ru/products-cpm-campaign/display-ads-settings#demography) аудитории, которой хотите показывать баннеры.
+- [Пол и возраст](../../products-cpm-campaign/display-ads-settings.md#demography) аудитории, которой хотите показывать баннеры.
 
 Чтобы настроить показы специальных баннеров для узкой аудитории, добавьте еще одну или несколько групп объявлений.
 
@@ -75,15 +74,15 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 Требования к креативам см. в разделах:
 
-- [Требования к баннерам на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services/requirements-ya)
-- [Требования к баннерам на Яндекс Погоде](ru/fixed-cpm-campaigns/product-yandex-services/requirements-weather)
-- [Требования к баннерам Фантеха](ru/fixed-cpm-campaigns/product-yandex-services/requirements-mediaservices)
-- [Требования к ТВ-билборду](ru/fixed-cpm-campaigns/product-yandex-services/requirements-tv)
-- [Требования к баннерам на Авто.ру](ru/fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru)
-- [Требования к баннерам на Яндекс Расписаниях](ru/fixed-cpm-campaigns/product-yandex-services/requirements-schedules)
-- [Требования к баннерам на Яндекс Услугах](ru/fixed-cpm-campaigns/product-yandex-services/requirements-services)
+- [Требования к баннерам на сервисах Яндекса](../../fixed-cpm-campaigns/product-yandex-services/requirements-ya.md)
+- [Требования к баннерам на Яндекс Погоде](../../fixed-cpm-campaigns/product-yandex-services/requirements-weather.md)
+- [Требования к баннерам Фантеха](../../fixed-cpm-campaigns/product-yandex-services/requirements-mediaservices.md)
+- [Требования к ТВ-билборду](../../fixed-cpm-campaigns/product-yandex-services/requirements-tv.md)
+- [Требования к баннерам на Авто.ру](../../fixed-cpm-campaigns/product-yandex-services/requirements-avto-ru.md)
+- [Требования к баннерам на Яндекс Расписаниях](../../fixed-cpm-campaigns/product-yandex-services/requirements-schedules.md)
+- [Требования к баннерам на Яндекс Услугах](../../fixed-cpm-campaigns/product-yandex-services/requirements-services.md)
 
-Также баннеры должны соответствовать [требованиям модерации](ru/moderation/ad-rules#ad-rules/image-ads) и [техническим требованиям](ru/products-cpm-campaign/requirements).
+Также баннеры должны соответствовать [требованиям модерации](../../moderation/ad-rules.md#ad-rules/image-ads) и [техническим требованиям](../../products-cpm-campaign/requirements.md).
 
 Укажите до трех ссылок на сайт. Порядковый номер ссылки должен соответствовать значению параметра `clickNum` при вызове метода `homeExpandableDesktopBannerAPI.clickAndClose(clickNum)` в коде баннера.
 
@@ -115,88 +114,4 @@ source: https://yandex.ru/support/direct/ru/fixed-cpm-campaigns/product-yandex-s
 
 Креативы должны быть приняты на модерации. Без этого показы рекламы не запустятся.
 
-Объявления начнут показываться только после того, как вы [оплатите размещение рекламы](ru/payments/payment-methods). Активизация показов может занимать до суток, независимо от способа запуска.
-
-Проверить статус кампании можно в столбце **Статус**. Чтобы настроить отображение столбца, на странице кампаний нажмите кнопку **Столбцы**.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-
-Уникальный идентификатор мобильного приложения или браузера пользователя. Идентификатор становится активным, когда пользователь работает в приложении или браузере. При обновлении сегментов неактивные анонимные идентификаторы удаляются из них и добавляются новые (к примеру, если пользователь приобрел новое устройство или переустановил приложение) — так, чтобы в сегментах оставались только анонимные идентификаторы, которые были активны в последние 30 дней.
-
-Предыдущая
-
-[Медийные кампании на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services)
-
-Следующая
-
-[Требования к баннерам на сервисах Яндекса](ru/fixed-cpm-campaigns/product-yandex-services/requirements-ya)
+Объявления начнут показываться только после того, как вы [оплатите размещение рекламы](../../payments/payment-methods.md). Активизация показов может занимать до суток, независимо от способа запуска.

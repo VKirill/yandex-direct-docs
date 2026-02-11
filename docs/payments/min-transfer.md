@@ -2,7 +2,6 @@
 source: https://yandex.ru/support/direct/ru/payments/min-transfer
 ---
 
-Минимальная сумма для переноса
 
 # Минимальная сумма для переноса
 

@@ -2,15 +2,14 @@
 source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statistics
 ---
 
-Как оценить результат видеорекламы
 
 # Как оценить результат видеорекламы
 
-- [Какие показатели отслеживать](ru/products-cpm-campaign-video/statistics#parameters)
-- [Статистика на странице кампании](ru/products-cpm-campaign-video/statistics#new-int)
-- [Как построить отчет](ru/products-cpm-campaign-video/statistics#report-wizard)
-- [Как принимать решения на основе статистики](ru/products-cpm-campaign-video/statistics#conclusion)
-- [Информация об аудитории видео](ru/products-cpm-campaign-video/statistics#audience)
+- [Какие показатели отслеживать](../products-cpm-campaign-video/statistics.md#parameters)
+- [Статистика на странице кампании](../products-cpm-campaign-video/statistics.md#new-int)
+- [Как построить отчет](../products-cpm-campaign-video/statistics.md#report-wizard)
+- [Как принимать решения на основе статистики](../products-cpm-campaign-video/statistics.md#conclusion)
+- [Информация об аудитории видео](../products-cpm-campaign-video/statistics.md#audience)
 
 Данные статистики показов помогут вам оценить эффективность объявлений. Отчеты о работе рекламной кампании вы можете посмотреть после того, как начнутся показы.
 
@@ -18,7 +17,7 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statisti
 
 Важно оценить, удалось ли охватить целевую аудиторию и насколько видео заинтересовало пользователей.
 
-Чтобы проанализировать, какие события произошли после просмотра видео, выберите модель атрибуции «Первый показ из Яндекс Директа кросс-девайс» или «Последний показ из Яндекс Директа кросс-девайс». Подробнее о [моделях атрибуции](ru/statistics/attribution-model#brand-statistics).
+Чтобы проанализировать, какие события произошли после просмотра видео, выберите модель атрибуции «Первый показ из Яндекс Директа кросс-девайс» или «Последний показ из Яндекс Директа кросс-девайс». Подробнее о [моделях атрибуции](../statistics/attribution-model.md#brand-statistics).
 
 #### Основные показатели эффективности видео
 
@@ -49,11 +48,11 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statisti
 - регионы показа;
 - тип устройств.
 
-Чтобы перейти в [Мастер отчетов](ru/statistics/report-wizard), нажмите **Ещё** → **Статистика кампании**.
+Чтобы перейти в [Мастер отчетов](../statistics/report-wizard.md), нажмите **Ещё** → **Статистика кампании**.
 
 ## Как построить отчет
 
-На странице кампании перейдите по ссылке **Посмотреть статистику**. В [Мастере отчетов](ru/statistics/report-wizard) создайте отчет по следующим параметрам:
+На странице кампании перейдите по ссылке **Посмотреть статистику**. В [Мастере отчетов](../statistics/report-wizard.md) создайте отчет по следующим параметрам:
 
 |  |  |
 | --- | --- |
@@ -67,7 +66,7 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statisti
 
 - Какой медийный охват принесла реклама.
 - Как видео удерживает аудиторию.
-- В каком количестве конверсий участвовала медийная реклама. [Подробнее](ru/statistics/attribution-model#brand-statistics).
+- В каком количестве конверсий участвовала медийная реклама. [Подробнее](../statistics/attribution-model.md#brand-statistics).
 - Как пользователи взаимодействовали с видео.
 
 Примечание
@@ -80,7 +79,7 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statisti
 
 **Увеличить количество показов видео**
 
-Если кампания выигрывает мало аукционов за показ рекламы, рекомендуем повысить ставку за тысячу показов (при ручной стратегии) или ограничение средней цены за тысячу показов (при автоматической стратегии). Проверьте [профиль пользователей](ru/products-cpm-campaign/display-ads-settings): возможно, объявление нацелено на слишком узкую аудиторию.
+Если кампания выигрывает мало аукционов за показ рекламы, рекомендуем повысить ставку за тысячу показов (при ручной стратегии) или ограничение средней цены за тысячу показов (при автоматической стратегии). Проверьте [профиль пользователей](../products-cpm-campaign/display-ads-settings.md): возможно, объявление нацелено на слишком узкую аудиторию.
 
 **Сравнить видеоролики между собой**
 
@@ -103,84 +102,3 @@ source: https://yandex.ru/support/direct/ru/products-cpm-campaign-video/statisti
 - процент пользователей в сегменте, которые были на вашем сайте или достигли на нем целей Яндекс Метрики.
 
 Подробнее в [Справке Яндекс Аудиторий](https://yandex.ru/support/audience/segments/segments-stat.html).
-
-[Посмотреть статистику в Аудиториях](https://audience.yandex.ru)
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
-
-Предыдущая
-
-[Как запустить кампанию](ru/products-cpm-campaign-video/create)
-
-Следующая
-
-[Ретаргетинг на аудиторию видео](ru/products-cpm-campaign-video/retargeting)

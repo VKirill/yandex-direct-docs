@@ -2,82 +2,41 @@
 source: https://yandex.ru/support/direct/ru/
 ---
 
-## Яндекс Директ
+# Яндекс Директ — Полная документация
 
-Для специалистовДля предпринимателей
+## Инструменты рекламы
 
-[### Единая перфоманс-кампания
-
+### [Единая перфоманс-кампания](./unified-performance-campaign/about.md)
 Комплексно решайте любые перфоманс-задачи в рамках одной кампании
 
-[Подробнее​](ru/unified-performance-campaign/about)](ru/unified-performance-campaign/about "Подробнее")
-
-[### Товарная кампания
-
+### [Товарная кампания](./campaign-master/product-campaign.md)
 Используйте простой инструмент для продвижения товаров в интернете
 
-[Подробнее​](ru/campaign-master/product-campaign)](ru/campaign-master/product-campaign "Подробнее")
-
-[### Реклама в Telegram
-
+### [Реклама в Telegram](./efficiency/telegram-ads.md)
 Покажите релевантную рекламу в телеграм-каналах партнеров РСЯ
 
-[Подробнее​](ru/efficiency/telegram-ads)](ru/efficiency/telegram-ads "Подробнее")
-
-[### Охватная реклама
-
+### [Охватная реклама](./reach-campaigns.md)
 Решайте задачи бизнеса на всех этапах воронки с помощью охватных форматов
 
-[Подробнее​](ru/reach-campaigns)](ru/reach-campaigns "Подробнее")
-
-[### Мастер кампаний
-
+### [Мастер кампаний](./campaign-master/about.md)
 Используйте быстрый способ разместить объявления в Директе
 
-[Подробнее​](ru/campaign-master/about)](ru/campaign-master/about "Подробнее")
-
-[### Продвижение приложений
-
+### [Продвижение приложений](./products-mobile-apps-ads/about.md)
 Продвигайте ваши приложения для iOS и Android
 
-[Подробнее​](ru/products-mobile-apps-ads/about)](ru/products-mobile-apps-ads/about "Подробнее")
-
-[### Продвижение организаций
-
+### [Продвижение организаций](./company-ads/create.md)
 Продвигайте вашу организацию в картах и других сервисах Яндекса
 
-[Подробнее​](ru/company-ads/create)](ru/company-ads/create "Подробнее")
+## Часто ищут
 
-### Часто ищут
+- [Статистика и дашборды](./statistics.md)
+- [Управление фидами](./feeds/about.md)
+- [Таргетинги](./impression-criteria/impression-criteria.md)
+- [Ретаргетинг и подбор аудитории](./impression-criteria/retargeting-lists.md)
+- [Управление кампаниями](./campaigns/campaign-settings.md)
 
-[Статистика и дашборды​](ru/statistics)
+## Сервисные функции
 
-[Управление фидами​](ru/feeds/about)
-
-[Таргетинги​](ru/impression-criteria/impression-criteria)
-
-[Ретаргетинг и подбор аудитории​](ru/impression-criteria/retargeting-lists)
-
-[Управление кампаниями​](ru/campaigns/campaign-settings)
-
-### Сервисные функции
-
-[Оплата и взаиморасчеты​](ru/payments/payment-methods)
-
-[Правила и модерация​](ru/moderation/adv-rules)
-
-[Технологии и сервисы​](ru/technologies-and-services/technologies-and-services)
-
-[Поддержка 24/7​](ru/troubleshooting/other)
-
-### Полезные ссылки
-
-[Глоссарий​](ru/glossary)
-
-[Новое в Директе​](https://yandex.ru/adv/news?tag=direkt)
-
-[Тренды и аналитика​](https://yandex.ru/adv/solutions/analytics)
-
-[Курсы по Директу​](https://yandex.ru/adv/edu/online/direct)
-
-[Полезные материалы​](https://yandex.ru/adv/edu/materials/tag-direct)
+- [Оплата и взаиморасчеты](./payments/payment-methods.md)
+- [Правила и модерация](./moderation/adv-rules.md)
+- [Технологии и сервисы](./technologies-and-services/technologies-and-services.md)

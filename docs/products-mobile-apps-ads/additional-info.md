@@ -2,15 +2,14 @@
 source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/additional-info
 ---
 
-Дополнительная информация о приложении
 
 # Дополнительная информация о приложении
 
-- [Рейтинг и количество оценок](ru/products-mobile-apps-ads/additional-info#rating)
-- [Цена](ru/products-mobile-apps-ads/additional-info#price)
-- [Иконка](ru/products-mobile-apps-ads/additional-info#icon)
-- [Метка о возрастном ограничении](ru/products-mobile-apps-ads/additional-info#age-restriction)
-- [Кнопка действия](ru/products-mobile-apps-ads/additional-info#button)
+- [Рейтинг и количество оценок](../products-mobile-apps-ads/additional-info.md#rating)
+- [Цена](../products-mobile-apps-ads/additional-info.md#price)
+- [Иконка](../products-mobile-apps-ads/additional-info.md#icon)
+- [Метка о возрастном ограничении](../products-mobile-apps-ads/additional-info.md#age-restriction)
+- [Кнопка действия](../products-mobile-apps-ads/additional-info.md#button)
 
 Продвижение приложений по умолчанию содержит дополнительную информацию: рейтинг и количество оценок, цену, иконку, метку о возрастном ограничении. Информация загружается из магазина приложений автоматически и обновляется раз в сутки. Также вы можете выбрать текст для кнопки действия на объявлении.
 
@@ -28,7 +27,7 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/additional-
 
 ## Иконка
 
-Если иконка приложения не соответствует [требованиям модерации](ru/moderation/ad-rules#icons), объявление будет показано без иконки или с предыдущей версией иконки, которая успешно прошла модерацию. Иконка может быть пропорционально уменьшена в соответствии с настройками блока для размещения объявлений (до 16 пикселей по любой стороне).
+Если иконка приложения не соответствует [требованиям модерации](../moderation/ad-rules.md#icons), объявление будет показано без иконки или с предыдущей версией иконки, которая успешно прошла модерацию. Иконка может быть пропорционально уменьшена в соответствии с настройками блока для размещения объявлений (до 16 пикселей по любой стороне).
 
 ## Метка о возрастном ограничении
 
@@ -41,74 +40,3 @@ source: https://yandex.ru/support/direct/ru/products-mobile-apps-ads/additional-
 ## Кнопка действия
 
 Текст на кнопке, отображаемой в объявлении, можно выбрать из нескольких вариантов. Если вы выбрали **Купить / Бесплатно**, значение будет выбрано автоматически: **Купить** — для платных приложений, **Бесплатно** — для бесплатных.
-
-#### Остались вопросы?
-
-Внимание
-
-Специалисты отдела клиентского сервиса могут вас проконсультировать только по кампаниям того логина, с которого вы обращаетесь. Логин можно увидеть, если открыть [ya.ru](http://ya.ru/) на соседней вкладке браузера. Специалист получит доступ к вашим данным только при обработке обращения.
-
-Сканируйте QR-код или нажмите на него для перехода по ссылке.
-
-
-При выборе Telegram, WhatsApp учитывайте, что Яндекс не контролирует, как сторонние мессенджеры хранят ваши данные и переписку на своей стороне, и не несет за это ответственность.
-
-Написать в Viber
-
-|  |  |
-| --- | --- |
-|  | Для обращений из Республики Беларусь |
-
-[Написать в чат](https://yandex.ru/chat#/user/840c4ce4-ed25-4c66-a7c7-ba8c001e02d9?utm_source=pay)
-
-Позвонить
-
-Клиентам и представителям агентств можно связаться с нами круглосуточно по телефонам:
-
-**Регионы России**: [8 800 700-47-45](tel:88007004745) (звонок из России бесплатный)
-
-**Москва**: [+7 495 139-91-93](tel:+74951399193)
-
-**Беларусь**: [+375 17 336-31-36](tel:+375173363136)
-
-**Узбекистан**: [+998 71 205-58-05](tel:+998712055805)
-
-**Казахстан**: [+7 727 344-31-31](tel:+77273443131)
-
-Для доступа к кампаниям специалисту потребуется [PIN-код](ru/troubleshooting/pin-code)
-
-Написать письмо
-
-Клиентам
-
-Агентствам
-
-[Формы обратной связи](https://yandex.ru/partner-office/knowledge-base)
-
-
-### Полезные ссылки
-
-- [Перейти в кабинет](https://direct.yandex.ru/)
-- [Мои кампании](https://direct.yandex.ru/registered/main.pl)
-- [Вордстат](https://wordstat.yandex.ru/)
-- [Способы оплаты](https://yandex.ru/support/direct/payments/payment-methods.html)
-- [Контакты](https://yandex.ru/support/direct/contact-us.html)
-
-### Правовые документы
-
-- [Требования к рекламным материалам](https://yandex.ru/legal/direct_adv_rules/ru/)
-- [Правила показа](https://yandex.ru/legal/direct_display_rules/ru/)
-- [Оферта](https://yandex.ru/legal/oferta_direct/ru/)
-
-### Онлайн-обучение
-
-- [Курсы по Директу](https://yandex.ru/adv/edu/online/direct)
-- [Вебинары](https://yandex.ru/adv/edu/events)
-- [Полезные материалы](https://yandex.ru/adv/edu/materials/tag-direct)
-
-### Узнайте больше
-
-- [Новости Директа](https://yandex.ru/adv/news?tag=direkt)
-- [Кейсы клиентов Яндекса](https://yandex.ru/adv/solutions/cases)
-- [Тренды и аналитика](https://yandex.ru/adv/solutions/analytics)
-- [Мероприятия Яндекс Рекламы](https://yandex.ru/adv/meropriyatiya)
