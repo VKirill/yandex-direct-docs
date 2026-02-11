@@ -232,11 +232,15 @@ python3 scripts/fix_links.py # Исправить ссылки
 **Инструкция:**
 1. Скачайте **MD-файл** (или ZIP и распакуйте)
 2. Откройте [claude.ai](https://claude.ai) → создайте новый **Project**
-3. В настройках Project нажмите **Add content** → загрузите файл(ы)
-4. Задавайте вопросы о Яндекс Директе!
+3. Скопируйте текст из [`claude-project-instructions.md`](claude-project-instructions.md) в поле **Project instructions** — это превратит Claude в эксперта по Яндекс Директу
+4. В настройках Project нажмите **Add content** → загрузите скачанный файл(ы)
+5. Задавайте вопросы о Яндекс Директе!
 
-> ZIP содержит: SKILL.md (навигация) + 4 reference-гайда + 57 ключевых статей из всех разделов.
-> MD-файл содержит всё то же самое в одном файле.
+> **ZIP** содержит: SKILL.md (навигация) + 4 reference-гайда + 57 ключевых статей из всех разделов.
+> **MD-файл** содержит всё то же самое в одном файле.
+> **[claude-project-instructions.md](claude-project-instructions.md)** — системная инструкция для Project, делает Claude экспертом-консультантом по Директу.
+
+**Если подключаете как GitHub-репозиторий** — Claude автоматически увидит `CLAUDE.md`, `.claude/agents/` и все 509 статей. Просто скопируйте инструкцию из [`claude-project-instructions.md`](claude-project-instructions.md) в поле Project instructions.
 
 ### Claude Code — установка скилла
 
