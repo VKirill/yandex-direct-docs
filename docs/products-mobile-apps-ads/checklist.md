@@ -335,7 +335,7 @@ Look-alike аудитории.
 | --- | --- |
 |  |  |
 | --- | --- |
-| Выключена опция **Ignore active users for retargeting**.   Включена опция **Re-engagement view-through attribution**.   Для опции **Re-engagement view-through attribution** указано значение — 24 часа. | Выключена опция **Ignore active users for retargeting**.   Включена опция **Re-engagement view-through attribution**.   Для опции **Re-engagement view-through attribution** указано значение — 24 часа.   Диплинк добавлен в параметр `af_dp` трекинг-ссылки, которая используется в Директе.   В трекинговую ссылку добавлен параметр `is_retargeting=true`.   В трекинговую ссылку дополнительно добавлен параметр `⁡_force_deeplink=true` (только в кампаниях приложений для устройств с iOS). |
+| Выключена опция **Ignore active users for retargeting**.   Включена опция **Re-engagement view-through attribution**.   Для опции **Re-engagement view-through attribution** указано значение — 24 часа. | Выключена опция **Ignore active users for retargeting**.   Включена опция **Re-engagement view-through attribution**.   Для опции **Re-engagement view-through attribution** указано значение — 24 часа.   Диплинк добавлен в параметр `af_dp` трекинг-ссылки, которая используется в Директе.   В трекинговую ссылку добавлен параметр `is_retargeting=true`.   В трекинговую ссылку дополнительно добавлен параметр `_force_deeplink=true` (только в кампаниях приложений для устройств с iOS). |
 
 **Adjust**
 

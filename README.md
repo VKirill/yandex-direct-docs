@@ -1,13 +1,27 @@
 # Документация Яндекс Директ (Markdown)
 
-[![Страниц](https://img.shields.io/badge/pages-509-blue)]() [![Язык](https://img.shields.io/badge/lang-ru-green)]() [![Обновлено](https://img.shields.io/badge/updated-2026--02--11-orange)]()
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82-docs-FFCC00?style=for-the-badge&logo=yandex&logoColor=black">
+  <img alt="Yandex Direct Docs" src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82-docs-FFCC00?style=for-the-badge&logo=yandex&logoColor=black">
+</picture>
+
+[![Страниц](https://img.shields.io/badge/pages-509-blue?style=flat-square)]() [![Язык](https://img.shields.io/badge/lang-ru-green?style=flat-square)]() [![Обновлено](https://img.shields.io/badge/updated-2026--02--11-orange?style=flat-square)]() [![Agent Skill](https://img.shields.io/badge/agent_skill-SKILL.md-8A2BE2?style=flat-square)](SKILL.md)
+
+[![Telegram](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pomogay_marketing)
+
+</div>
+
+---
 
 Полная документация **Яндекс Директа** на русском языке в формате Markdown. Автоматически получена с [yandex.ru/support/direct/ru/](https://yandex.ru/support/direct/ru/) по официальному sitemap.xml.
 
 **509 статей** с внутренними ссылками, структурированные по разделам. Подходит для:
 - Справочника по контекстной рекламе Яндекса
-- Базы знаний для AI-агентов и чат-ботов
-- Интеграции с context7 и другими инструментами документации
+- Базы знаний для AI-агентов и чат-ботов (Claude Code, Cursor, Windsurf, Kimi и др.)
+- Интеграции с [context7](https://context7.com) и другими инструментами документации
+- [Agent Skill](https://agentskills.io) — готовый скилл `SKILL.md` для подключения к любому AI-агенту
 - Обучения и быстрого поиска информации
 
 ## Навигация по разделам
@@ -200,10 +214,53 @@ python3 scripts/cleanup2.py  # Вторая очистка
 python3 scripts/fix_links.py # Исправить ссылки
 ```
 
+## Agent Skill
+
+Этот репозиторий содержит готовый **[Agent Skill](https://agentskills.io)** — файл [`SKILL.md`](SKILL.md), который можно подключить к любому AI-агенту (Claude Code, Cursor, Windsurf, Kimi и др.).
+
+### Установка
+
+**Claude Code** — скопируйте `SKILL.md` в директорию скиллов:
+```bash
+# Глобально (для всех проектов)
+cp SKILL.md ~/.claude/skills/yandex-direct/SKILL.md
+
+# Или для конкретного проекта
+cp SKILL.md .claude/skills/yandex-direct/SKILL.md
+```
+
+**Cursor / Windsurf** — добавьте содержимое `SKILL.md` в файл правил проекта (`.cursorrules`, `.windsurfrules`).
+
+**Context7 MCP** — используйте library ID для запросов к документации через MCP.
+
+### Что умеет скилл
+
+- Навигация по 509 статьям с таблицей всех разделов
+- Быстрый поиск по ключевым словам
+- Ответы на вопросы о типах кампаний, стратегиях, таргетингах, модерации
+- Цитирование источников с ссылками на оригинал
+
+## Telegram-канал
+
+<div align="center">
+
+[![Помогай Маркетинг](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pomogay_marketing)
+
+**[@pomogay_marketing](https://t.me/pomogay_marketing)** — канал о маркетинге, рекламе и AI-автоматизации.
+Подписывайтесь, чтобы быть в курсе обновлений документации и полезных материалов!
+
+</div>
+
 ## Лицензия
 
 Контент документации принадлежит Яндексу. Данный репозиторий создан для удобства доступа и использования в справочных целях.
 
 ---
 
+<div align="center">
+
 Дата скрапинга: 2026-02-11 | Источник: [yandex.ru/support/direct/ru/](https://yandex.ru/support/direct/ru/)
+
+Сделано с помощью AI | **[@pomogay_marketing](https://t.me/pomogay_marketing)**
+
+</div>
